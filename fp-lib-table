@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "orleon")(type "KiCad")(uri "${KIPRJMOD}/orleon.pretty")(options "")(descr ""))
+)

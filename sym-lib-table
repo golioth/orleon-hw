@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "NRF52840-CKAA-F-R")(type "KiCad")(uri "${KIPRJMOD}/input/sch/NRF52840-CKAA-F-R.kicad_sym")(options "")(descr ""))
+  (lib (name "CR-2032_HF1N")(type "KiCad")(uri "${KIPRJMOD}/input/sch/CR-2032_HF1N.kicad_sym")(options "")(descr ""))
+)
