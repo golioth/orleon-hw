@@ -12419,7 +12419,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cfda84e3-d46d-4f88-a772-6d3188a1d545")
-		(property "Reference" "FXC.24.A"
+		(property "Reference" "FXC.24.A101"
 			(at 93.345 68.58 0)
 			(effects
 				(font
@@ -12498,7 +12498,7 @@
 		(instances
 			(project ""
 				(path "/fdfe0b94-afa6-44ad-a7e5-312f182a8626"
-					(reference "FXC.24.A")
+					(reference "FXC.24.A101")
 					(unit 1)
 				)
 			)
