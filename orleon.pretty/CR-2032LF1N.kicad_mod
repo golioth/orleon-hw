@@ -103,7 +103,7 @@
 			(type solid)
 		)
 		(fill no)
-		(layer "F.CrtYd")
+		(layer "B.CrtYd")
 		(uuid "96d941cd-7ce0-4d09-a2b4-2b2373e065c6")
 	)
 	(fp_rect
@@ -114,8 +114,19 @@
 			(type solid)
 		)
 		(fill no)
-		(layer "F.CrtYd")
+		(layer "B.CrtYd")
 		(uuid "164e94b7-029b-4d68-80b8-58f81f4af2b1")
+	)
+	(fp_rect
+		(start 8.7 2.1)
+		(end 12.9 5.4)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "bd6e0a7f-b249-4143-981a-662ee7fe965e")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 2.5 0)
