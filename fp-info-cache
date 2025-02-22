@@ -1,4 +1,4 @@
-24741110397767893
+24757384524181724
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -74515,20 +74515,6 @@ QFN NoLead
 56
 39
 Package_DFN_QFN
-QFN-38-1EP_5x7mm_P0.5mm_EP3.15x5.15mm
-QFN, 38 Pin (http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-qfn/QFN_38_05-08-1701.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-54
-39
-Package_DFN_QFN
-QFN-38-1EP_5x7mm_P0.5mm_EP3.15x5.15mm_ThermalVias
-QFN, 38 Pin (http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-qfn/QFN_38_05-08-1701.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-63
-39
-Package_DFN_QFN
 QFN-40-1EP_5x5mm_P0.4mm_EP3.6x3.6mm
 QFN, 40 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=297), generated with kicad-footprint-generator ipc_noLead_generator.py
 QFN NoLead
@@ -77216,6 +77202,48 @@ WQFN 0.5
 0
 37
 33
+Package_DFN_QFN
+WQFN-38-1EP_5x7mm_P0.5mm_EP2.7x4.7mm
+WQFN, 38 Pin (JEDEC MO-220 variation WHKD, https://www.jedec.org/document_search?search_api_views_fulltext=MO-220), generated with kicad-footprint-generator ipc_noLead_generator.py
+WQFN NoLead
+0
+45
+39
+Package_DFN_QFN
+WQFN-38-1EP_5x7mm_P0.5mm_EP2.7x4.7mm_ThermalVias
+WQFN, 38 Pin (JEDEC MO-220 variation WHKD, https://www.jedec.org/document_search?search_api_views_fulltext=MO-220), generated with kicad-footprint-generator ipc_noLead_generator.py
+WQFN NoLead
+0
+61
+39
+Package_DFN_QFN
+WQFN-38-1EP_5x7mm_P0.5mm_EP3.15x5.15mm
+WQFN, 38 Pin (JEDEC MO-220 variation WHKD (with exposed pad size from Linear Technology / Analog Devices), https://www.jedec.org/document_search?search_api_views_fulltext=MO-220, http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-qfn/QFN_38_05-08-1701.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+WQFN NoLead UHF
+0
+45
+39
+Package_DFN_QFN
+WQFN-38-1EP_5x7mm_P0.5mm_EP3.15x5.15mm_ThermalVias
+WQFN, 38 Pin (JEDEC MO-220 variation WHKD (with exposed pad size from Linear Technology / Analog Devices), https://www.jedec.org/document_search?search_api_views_fulltext=MO-220, http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-qfn/QFN_38_05-08-1701.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+WQFN NoLead UHF
+0
+61
+39
+Package_DFN_QFN
+WQFN-38-1EP_5x7mm_P0.5mm_EP3.65x5.65mm
+WQFN, 38 Pin (JEDEC MO-220 variation WHKD-1, https://www.jedec.org/document_search?search_api_views_fulltext=MO-220), generated with kicad-footprint-generator ipc_noLead_generator.py
+WQFN NoLead TQFN T3857-1C T3857M-1
+0
+45
+39
+Package_DFN_QFN
+WQFN-38-1EP_5x7mm_P0.5mm_EP3.65x5.65mm_ThermalVias
+WQFN, 38 Pin (JEDEC MO-220 variation WHKD-1, https://www.jedec.org/document_search?search_api_views_fulltext=MO-220), generated with kicad-footprint-generator ipc_noLead_generator.py
+WQFN NoLead TQFN T3857-1C T3857M-1
+0
+70
+39
 Package_DFN_QFN
 WQFN-42-1EP_3.5x9mm_P0.5mm_EP2.05x7.55mm
 WQFN, 42 Pin (http://www.ti.com/lit/ds/symlink/ts3l501e.pdf#page=23), generated with kicad-footprint-generator ipc_noLead_generator.py
@@ -80932,6 +80960,20 @@ HTSSOP, 38 Pin (JEDEC MO-153 Var BDT-1 https://www.jedec.org/document_search?sea
 HTSSOP SO
 0
 61
+39
+Package_SO
+HTSSOP-38-1EP_4.4x9.7mm_P0.5mm_EP3.05x6.65mm
+HTSSOP, 38 Pin (JEDEC MO-153 variation BDT-1 (with exposed pad size from Maxim / Analog Devices), https://www.jedec.org/document_search?search_api_views_fulltext=MO-153, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/tssop-exp/21-0714.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+HTSSOP SO U38E-3C
+0
+47
+39
+Package_SO
+HTSSOP-38-1EP_4.4x9.7mm_P0.5mm_EP3.05x6.65mm_ThermalVias
+HTSSOP, 38 Pin (JEDEC MO-153 variation BDT-1 (with exposed pad size from Maxim / Analog Devices), https://www.jedec.org/document_search?search_api_views_fulltext=MO-153, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/tssop-exp/21-0714.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+HTSSOP SO U38E-3C
+0
+69
 39
 Package_SO
 HTSSOP-38-1EP_6.1x12.5mm_P0.65mm_EP5.2x12.5mm_Mask3.39x6.35mm
@@ -99497,6 +99539,13 @@ FXC.24.A
 0
 4
 2
+orleon
+MP34DT05TR-A_STM
+
+MP34DT05TR-A 
+0
+8
+8
 orleon
 RDTE-4.000-3030-NS1
 

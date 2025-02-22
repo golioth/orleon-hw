@@ -3,4 +3,5 @@
   (lib (name "NRF52840-CKAA-F-R")(type "KiCad")(uri "${KIPRJMOD}/input/sch/NRF52840-CKAA-F-R.kicad_sym")(options "")(descr ""))
   (lib (name "CR-2032_HF1N")(type "KiCad")(uri "${KIPRJMOD}/input/sch/CR-2032_HF1N.kicad_sym")(options "")(descr ""))
   (lib (name "orleon")(type "KiCad")(uri "${KIPRJMOD}/input/sch/orleon.kicad_sym")(options "")(descr ""))
+  (lib (name "MP34DT05TR-A")(type "KiCad")(uri "${KIPRJMOD}/input/sch/MP34DT05TR-A.kicad_sym")(options "")(descr ""))
 )
