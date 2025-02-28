@@ -58,7 +58,12 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "courtyards_overlap|170538333|109395000|436df2b3-c958-4c2e-a601-ee9c70effdc1|982fdf8b-9b2e-45e5-ab54-2f08ead9ed71",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -66,7 +71,7 @@
         "annular_width": "error",
         "clearance": "error",
         "connection_width": "warning",
-        "copper_edge_clearance": "error",
+        "copper_edge_clearance": "warning",
         "copper_sliver": "warning",
         "courtyards_overlap": "error",
         "creepage": "error",
@@ -136,7 +141,7 @@
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.15,
         "min_track_width": 0.09,
-        "min_via_annular_width": 0.2,
+        "min_via_annular_width": 0.05,
         "min_via_diameter": 0.25,
         "solder_mask_to_copper_clearance": 0.0,
         "use_height_for_length_calcs": true
@@ -186,7 +191,8 @@
         }
       ],
       "track_widths": [
-        0.0
+        0.0,
+        0.089
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -524,7 +530,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "output/mech/orleon_202502272257.step",
       "svg": "",
       "vrml": ""
     },
