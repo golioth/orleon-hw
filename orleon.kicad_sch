@@ -6838,14 +6838,6 @@
 		(uuid "3a40cd2b-db41-4292-bd0f-39d67df62a26")
 	)
 	(no_connect
-		(at 341.63 62.23)
-		(uuid "3ebcc8c7-a651-455e-89e8-38fe124d7008")
-	)
-	(no_connect
-		(at 295.91 44.45)
-		(uuid "40a89937-e159-44c6-a9c9-ccf58f391850")
-	)
-	(no_connect
 		(at 364.49 119.38)
 		(uuid "430a68c8-ab79-41fd-b263-51de6cce2c2f")
 	)
@@ -6864,10 +6856,6 @@
 	(no_connect
 		(at 334.01 124.46)
 		(uuid "7715435e-1f63-47b5-b7ef-91ddea47d50b")
-	)
-	(no_connect
-		(at 295.91 54.61)
-		(uuid "77e5a221-abe5-42b4-bad8-c58303fcfd6e")
 	)
 	(no_connect
 		(at 341.63 72.39)
@@ -6890,16 +6878,8 @@
 		(uuid "8e36d29c-5df2-4239-acc1-7a28e6c87ed2")
 	)
 	(no_connect
-		(at 341.63 39.37)
-		(uuid "94fa0e4c-7cc9-446e-a8d1-ad62135bcce2")
-	)
-	(no_connect
 		(at 341.63 77.47)
 		(uuid "979d225f-d535-44be-af42-0dddf19d77b5")
-	)
-	(no_connect
-		(at 295.91 57.15)
-		(uuid "9b159618-d3b9-4bc7-bd0c-31e7dc2b8bec")
 	)
 	(no_connect
 		(at 334.01 119.38)
@@ -8867,6 +8847,16 @@
 	)
 	(wire
 		(pts
+			(xy 284.48 54.61) (xy 295.91 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "94aa7c68-bc6e-4e1b-89ee-4b308f8a4933")
+	)
+	(wire
+		(pts
 			(xy 156.21 113.03) (xy 156.21 114.3)
 		)
 		(stroke
@@ -9217,6 +9207,16 @@
 	)
 	(wire
 		(pts
+			(xy 284.48 44.45) (xy 295.91 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b7905eb2-8503-499c-a74a-6d7941e73629")
+	)
+	(wire
+		(pts
 			(xy 364.49 129.54) (xy 373.38 129.54)
 		)
 		(stroke
@@ -9517,6 +9517,16 @@
 	)
 	(wire
 		(pts
+			(xy 341.63 62.23) (xy 355.6 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cdacb4ed-c32d-4fd9-82cb-e33186b1b9d0")
+	)
+	(wire
+		(pts
 			(xy 279.4 175.26) (xy 279.4 177.8)
 		)
 		(stroke
@@ -9654,6 +9664,16 @@
 			(type default)
 		)
 		(uuid "db901ff6-dd3b-4ff5-865f-8f9ea0b78275")
+	)
+	(wire
+		(pts
+			(xy 284.48 57.15) (xy 295.91 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dba89ad0-9d2e-431f-a4cd-cb4bc3733b13")
 	)
 	(wire
 		(pts
@@ -10014,6 +10034,16 @@
 			(type default)
 		)
 		(uuid "f65b2b88-7b16-4c45-a2f0-eb3ea2a6b804")
+	)
+	(wire
+		(pts
+			(xy 341.63 39.37) (xy 353.06 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f6f00ce1-043e-41a3-88fd-2ddc74438f0c")
 	)
 	(wire
 		(pts
@@ -12922,7 +12952,25 @@
 			"AABTAAAAbQAAADIAAAArAAAAaQAAAEQAAABnAAAAZwAAAGcAAABkAAAAdAAAAFkAAABzAAAAdgAA"
 			"AHAAAABzAAAANwAAAGwAAAAzAAAAdgAAADIAAAA3AAAATQAAAEUAAAA5AAAASQAAAGcAAABMAAAA"
 			"MwAAAGkAAABBAAAAZwAAAFUAAABTAAAAbwAAAHUAAABEAAAATAAAADMAAABkAAAAdwAAAEkAAABE"
-			"AAAAUQAAACsAAABIAAAAawAAAE4AAABEAAAAQQAAAC8AAAA0AAAARAAAAEIAAA=="
+			"AAAAUQAAACsAAABIAAAAawAAAE4AAABEAAAAQQAAAC8AAAA0AAAARAAAAEIAAAAAAAAAcAMAAAAA"
+			"AADAnxOiO3oAAAEAAKA7egAAAAAAAAAAAAAAAAAAAAAAADjW2TM7egAADg1h1ZarQzOt8Dz+4yYa"
+			"CD0AAAAAAAAAMNv66cRgAAAAbwPfxwMAAAAAAAAAAAAAAPdboQEAAAAAAAAAAAAAAKD1W6E7egAA"
+			"AAAAADt6AACQOW/exGAAAJA5b97EYAAAkDlv3sRgAAABAAAAAAAAAKD4OevEYAAADQAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAACAPzt6AAANAAAAAAAAAAAAAAAAAAAAAPlboTt6AADYuLzqxGAAAAEA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgD87egAAAAAAAAAAAAAAAAAAAAAAAFDt1DM7egAA+Li8"
+			"6sRgAAAAAAAAAAAAAAAAAADEYAAA0PGd0MRgAAAAAAAAAAAAAAAAAAAAAAAAcKo+6sRgAAAEAAAA"
+			"AAAAAAYAAAAAAAAAUKCv0MRgAAAgoh7TxGAAAAQAAAAAAAAAcGi06sRgAAAEAAAAAAAAAAYAAAAA"
+			"AAAAQLCe0MRgAAAAAAAAAAAAAAAAAAAAAAAAAAKf0MRgAACgJbgzO3oAAJi5vOrEYAAAAAAAAAAA"
+			"AAAAAAAAxGAAAMC1ntDEYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMD5W6E7egAAAAAAADt6AADA8Y4AxWAAAMDxjgDFYAAA"
+			"wPGOAMVgAAABAAAAAAAAAAAAAAAAAAAA/////wEAAAAAAAAAAAAAAAAAAAAAAPA/AAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAKGcMQAAnDEAAABgAAAAAAAAxGAAAIi6"
+			"vOrEYAAAAAAAAAAAAAAAAAAAxGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOy5JwD88QcAAKtO"
+			"DAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA/v7+/u4/AAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAACQVBXoxGAAAAQAAAAAAAAABgAAAAAAAACwvrzqxGAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAJEBAAAAAAAAECpL6sRgAABweMTqxGAAAAY0JAA5AAAA57ooABup"
+			"JAAgILXqxGAAADkAAAAKqSgAXgojADkAAADnuigAc38jAKA9turEYAAAQgAAAIRsKAD5PSIAQgAA"
+			"ADndKQAvIiMAcDe66sRgAAA5AAAACqkoABqvIQA5AAAA57ooAMtVIgCQsLbjxA=="
 		)
 	)
 	(label "nRF52_TX"
@@ -13005,6 +13053,16 @@
 		)
 		(uuid "1a41220f-6a14-457f-813e-02fe86a80f0b")
 	)
+	(label "1.09{slash}T3"
+		(at 346.71 62.23 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "232dca40-ae87-4b79-988d-304736be94e4")
+	)
 	(label "CR2032_IN"
 		(at 53.34 107.95 0)
 		(effects
@@ -13044,6 +13102,16 @@
 			(justify right bottom)
 		)
 		(uuid "40771844-9256-4593-a4e5-ff0173e58748")
+	)
+	(label "0.07{slash}TC"
+		(at 284.48 44.45 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "40900317-4322-4d5f-a9bf-d33616e190db")
 	)
 	(label "BUZZER"
 		(at 284.48 36.83 0)
@@ -13134,6 +13202,16 @@
 			(justify left bottom)
 		)
 		(uuid "5dae0a03-fad7-4b1f-87e7-e73fe084bb21")
+	)
+	(label "0.12{slash}T1"
+		(at 284.48 57.15 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "62443f65-913e-4bf5-942d-a7a84465a58e")
 	)
 	(label "LED06"
 		(at 353.06 54.61 180)
@@ -13285,6 +13363,16 @@
 		)
 		(uuid "a9175bc3-2ea6-4371-a931-a28779d06cf1")
 	)
+	(label "1.00{slash}T0"
+		(at 345.44 39.37 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "baa0aed6-191c-48a0-b2a8-5d3a81a16512")
+	)
 	(label "LED11"
 		(at 228.6 143.51 0)
 		(effects
@@ -13384,6 +13472,16 @@
 			(justify left bottom)
 		)
 		(uuid "cf68132b-d464-486d-a4d8-62b37adec488")
+	)
+	(label "0.11{slash}T2"
+		(at 284.48 54.61 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d2021162-364f-4bc5-8853-83857c099a11")
 	)
 	(label "LED12"
 		(at 245.11 140.97 0)
@@ -13980,6 +14078,98 @@
 			(project "orleon"
 				(path "/fdfe0b94-afa6-44ad-a7e5-312f182a8626"
 					(reference "#PWR0111")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 284.48 57.15 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "049ee317-c658-4dd8-917a-f4a18e81679e")
+		(property "Reference" "TP16"
+			(at 276.86 57.15 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 281.178 53.975 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 284.48 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 284.48 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 284.48 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link1" "N/A"
+			(at 284.48 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN1" "N/A"
+			(at 284.48 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor1" "N/A"
+			(at 284.48 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d5eacaaa-f8cf-48ef-9ee7-350c4600e36a")
+		)
+		(instances
+			(project "orleon"
+				(path "/fdfe0b94-afa6-44ad-a7e5-312f182a8626"
+					(reference "TP16")
 					(unit 1)
 				)
 			)
@@ -18193,6 +18383,14 @@
 				(hide yes)
 			)
 		)
+		(property "Extra" ""
+			(at 41.91 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "N"
 			(uuid "f26a7e73-0e93-4abe-8e39-42b7fc86f7b2")
 		)
@@ -18713,6 +18911,98 @@
 			(project "orleon"
 				(path "/fdfe0b94-afa6-44ad-a7e5-312f182a8626"
 					(reference "#PWR0102")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 355.6 62.23 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6e1c1d5c-ced4-4515-9d45-aa50a33ff4cd")
+		(property "Reference" "TP20"
+			(at 363.22 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 358.902 65.405 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 355.6 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 355.6 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 355.6 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link1" "N/A"
+			(at 355.6 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN1" "N/A"
+			(at 355.6 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor1" "N/A"
+			(at 355.6 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "84b428c2-a9d9-40b3-bbd8-01d5a5b4ac86")
+		)
+		(instances
+			(project "orleon"
+				(path "/fdfe0b94-afa6-44ad-a7e5-312f182a8626"
+					(reference "TP20")
 					(unit 1)
 				)
 			)
@@ -20093,6 +20383,98 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 353.06 39.37 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8b26fb3f-1373-4016-b46d-8105943d945d")
+		(property "Reference" "TP19"
+			(at 360.68 39.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 356.362 42.545 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 353.06 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 353.06 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 353.06 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link1" "N/A"
+			(at 353.06 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN1" "N/A"
+			(at 353.06 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor1" "N/A"
+			(at 353.06 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c04f6136-ec1f-49e8-af48-76ed8759d8de")
+		)
+		(instances
+			(project "orleon"
+				(path "/fdfe0b94-afa6-44ad-a7e5-312f182a8626"
+					(reference "TP19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Small")
 		(at 280.67 218.44 0)
 		(unit 1)
@@ -21236,7 +21618,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a49577f5-6b67-43a5-a678-4e46e218d4f5")
 		(property "Reference" "LS1"
@@ -21975,7 +22357,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b55f3895-1074-4d1b-9ef7-11272ddc1fb1")
 		(property "Reference" "U102"
@@ -22071,6 +22453,98 @@
 			(project ""
 				(path "/fdfe0b94-afa6-44ad-a7e5-312f182a8626"
 					(reference "U102")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 284.48 54.61 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b6908009-4c4f-4e64-bbc4-7aa90130f1cc")
+		(property "Reference" "TP17"
+			(at 276.86 54.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 281.178 51.435 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 284.48 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 284.48 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 284.48 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link1" "N/A"
+			(at 284.48 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN1" "N/A"
+			(at 284.48 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor1" "N/A"
+			(at 284.48 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "70876e29-0f1c-425b-8757-df1a1e786c15")
+		)
+		(instances
+			(project "orleon"
+				(path "/fdfe0b94-afa6-44ad-a7e5-312f182a8626"
+					(reference "TP17")
 					(unit 1)
 				)
 			)
@@ -22919,6 +23393,98 @@
 			(project "orleon"
 				(path "/fdfe0b94-afa6-44ad-a7e5-312f182a8626"
 					(reference "R4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 284.48 44.45 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "cab5a3fe-d0fa-4fa0-9050-4fee8a678319")
+		(property "Reference" "TP18"
+			(at 276.86 44.45 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 281.178 41.275 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 284.48 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 284.48 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 284.48 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link1" "N/A"
+			(at 284.48 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN1" "N/A"
+			(at 284.48 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor1" "N/A"
+			(at 284.48 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e79cb004-eaf8-48d6-a329-ceb4e16764ed")
+		)
+		(instances
+			(project "orleon"
+				(path "/fdfe0b94-afa6-44ad-a7e5-312f182a8626"
+					(reference "TP18")
 					(unit 1)
 				)
 			)
