@@ -21281,7 +21281,7 @@
 			(uuid "1447fe1d-d034-4f31-a559-c3aabfdfd006")
 		)
 		(embedded_fonts no)
-		(model ".tes${KICAD9_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/PUIAudio_SMT_0825_S_4_R.wrl"
+		(model "${KICAD9_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/PUIAudio_SMT_0825_S_4_R.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -22623,7 +22623,7 @@
 			(uuid "ce6abacb-c013-42a0-8407-ad2cdff34930")
 		)
 		(embedded_fonts no)
-		(model "test${KICAD9_3DMODEL_DIR}/RF_Antenna.3dshapes/Johanson_2450AT18x100.step"
+		(model "${KICAD9_3DMODEL_DIR}/RF_Antenna.3dshapes/Johanson_2450AT18x100.step"
 			(offset
 				(xyz 0 0 0)
 			)
