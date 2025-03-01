@@ -15138,7 +15138,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "12P"
+		(property "Value" "560P"
 			(at 245.11 41.275 0)
 			(effects
 				(font
@@ -15676,7 +15676,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "12P"
+		(property "Value" "560P"
 			(at 245.11 56.515 0)
 			(effects
 				(font
