@@ -60,6 +60,10 @@
       ],
       "drc_exclusions": [
         [
+          "clearance|163784703|90220332|7eeb8f03-102e-48fc-9928-3484715e2b32|80dc88a7-5ae6-4b61-ae21-278f626a0f55",
+          "Fails RF net clearance, but only becuase of the stackup being used."
+        ],
+        [
           "courtyards_overlap|150121207|91974362|3b991186-8cc5-4eef-9dc6-94b6da255663|7e6601a6-0540-4b7a-a93a-12cbf2516a98",
           ""
         ],
