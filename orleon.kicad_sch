@@ -6303,7 +6303,7 @@
 	)
 	(text "NFC \nConnector"
 		(exclude_from_sim no)
-		(at 245.618 37.846 0)
+		(at 221.488 37.846 0)
 		(effects
 			(font
 				(size 3.81 3.81)
@@ -6390,6 +6390,12 @@
 		(uuid "c8495fac-ce2a-45ba-87d2-4f9df730aa69")
 	)
 	(junction
+		(at 86.36 144.78)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "01b43b31-7ece-45c0-81f1-f2f2b7c779b0")
+	)
+	(junction
 		(at 412.75 121.92)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6456,6 +6462,12 @@
 		(uuid "2c836301-69dc-4daa-a949-5b2432886576")
 	)
 	(junction
+		(at 156.21 91.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2d1d41e6-0f4f-4277-bc5f-282c001a9a3c")
+	)
+	(junction
 		(at 368.3 187.96)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6466,12 +6478,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "38678e15-a48c-42ce-999c-9d2bd8e8387c")
-	)
-	(junction
-		(at 309.88 152.4)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3caaa950-97dc-40e9-af39-68698f28764f")
 	)
 	(junction
 		(at 151.13 31.75)
@@ -6504,6 +6510,18 @@
 		(uuid "56f08b24-b5b7-4b80-bb52-733689eee137")
 	)
 	(junction
+		(at 167.64 91.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5ef74fc1-bae7-4674-b323-a7036edde1e5")
+	)
+	(junction
+		(at 91.44 191.77)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "61bb9272-109b-46ce-bccd-57e757b4fe9a")
+	)
+	(junction
 		(at 382.27 127)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6520,6 +6538,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "654dba5c-6659-4281-b312-856efddf80b4")
+	)
+	(junction
+		(at 167.64 102.87)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "69b9a6e6-d336-4187-b62c-f9fdebd3ab3b")
 	)
 	(junction
 		(at 382.27 143.51)
@@ -6600,6 +6624,12 @@
 		(uuid "92745b96-18e8-4681-9c11-81bd70a90aa6")
 	)
 	(junction
+		(at 242.57 52.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9346db8f-d42c-4e07-b1b6-b954a566c3e1")
+	)
+	(junction
 		(at 373.38 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6622,6 +6652,18 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a0a58438-d0f1-479c-88f8-1450b30d0375")
+	)
+	(junction
+		(at 176.53 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a23f2a05-9579-45c7-a524-c98206f249d3")
+	)
+	(junction
+		(at 91.44 144.78)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a91449d7-3bc2-4c34-b6fa-6ad7ae5090aa")
 	)
 	(junction
 		(at 402.59 121.92)
@@ -6700,6 +6742,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cb4fce5d-cb5f-4726-a9aa-faf9ce115f80")
+	)
+	(junction
+		(at 242.57 49.53)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d3a4a97e-403e-450e-bd95-55f308866bc5")
 	)
 	(junction
 		(at 368.3 170.18)
@@ -6804,12 +6852,12 @@
 		(uuid "26ac3beb-e3e2-4478-abff-35f507d36a71")
 	)
 	(no_connect
-		(at 295.91 34.29)
-		(uuid "28e24c67-75be-4bb2-b5e4-43959ebbebcb")
+		(at 341.63 44.45)
+		(uuid "29437001-354f-4506-a61a-56b6b38c132b")
 	)
 	(no_connect
-		(at 295.91 39.37)
-		(uuid "29cf27e7-1f96-495f-9821-8d13c7c5ceaa")
+		(at 341.63 69.85)
+		(uuid "2d356f7a-32e2-415d-9123-9700f2275bcb")
 	)
 	(no_connect
 		(at 349.25 92.71)
@@ -6820,44 +6868,48 @@
 		(uuid "31429707-eb88-405c-9bcd-27325528e9bf")
 	)
 	(no_connect
-		(at 295.91 31.75)
-		(uuid "3a40cd2b-db41-4292-bd0f-39d67df62a26")
-	)
-	(no_connect
-		(at 295.91 46.99)
-		(uuid "3d755cd9-6743-44a4-97aa-80bde290db53")
-	)
-	(no_connect
 		(at 364.49 119.38)
 		(uuid "430a68c8-ab79-41fd-b263-51de6cce2c2f")
+	)
+	(no_connect
+		(at 388.62 62.23)
+		(uuid "444ca7ac-54cb-4d82-a2d9-9fabbb481a9a")
 	)
 	(no_connect
 		(at 295.91 87.63)
 		(uuid "556141e3-5f1f-4343-bfad-72aac9cf9c3e")
 	)
 	(no_connect
-		(at 341.63 69.85)
+		(at 341.63 46.99)
 		(uuid "59597c5b-841a-4b05-811e-84cbfbe0eb28")
 	)
 	(no_connect
-		(at 295.91 59.69)
-		(uuid "5ecb67b6-78e0-4ebf-8bf0-fd0f5f24e5c9")
-	)
-	(no_connect
-		(at 341.63 74.93)
-		(uuid "75e3589e-6430-42ed-830e-1ba755a8ae2f")
+		(at 341.63 54.61)
+		(uuid "689e5999-658b-499c-8d6c-231046f420ed")
 	)
 	(no_connect
 		(at 334.01 124.46)
 		(uuid "7715435e-1f63-47b5-b7ef-91ddea47d50b")
 	)
 	(no_connect
-		(at 341.63 72.39)
-		(uuid "78d34d2f-a71d-4c78-a7ab-b4a2856fce80")
+		(at 127 241.3)
+		(uuid "7b51ba3a-d8dd-4e12-9be3-70727208d421")
+	)
+	(no_connect
+		(at 384.81 36.83)
+		(uuid "7cc02d91-25c9-4529-abed-a531d5b3dbf3")
 	)
 	(no_connect
 		(at 341.63 31.75)
 		(uuid "833c999c-ea36-4af2-923a-b0ea7e9c5e4a")
+	)
+	(no_connect
+		(at 341.63 49.53)
+		(uuid "898e4157-6407-4611-a4c4-0bb83269a935")
+	)
+	(no_connect
+		(at 341.63 64.77)
+		(uuid "8e36d29c-5df2-4239-acc1-7a28e6c87ed2")
 	)
 	(no_connect
 		(at 341.63 77.47)
@@ -6868,12 +6920,32 @@
 		(uuid "a9ab394c-fd34-49ca-b51d-6fb396a03164")
 	)
 	(no_connect
-		(at 295.91 77.47)
-		(uuid "abf8d4c6-4c69-4bfd-aa89-9b0888462957")
+		(at 345.44 87.63)
+		(uuid "b5a07a2c-d1af-4142-8488-f47693f4c877")
 	)
 	(no_connect
-		(at 295.91 80.01)
-		(uuid "dd23d066-6296-48b6-b6fa-e4a351b44ba5")
+		(at 295.91 59.69)
+		(uuid "df89bd48-04b9-46a4-8927-41f19bbdacaa")
+	)
+	(no_connect
+		(at 341.63 67.31)
+		(uuid "e02e2885-9965-46fd-96b8-7edbb2858827")
+	)
+	(no_connect
+		(at 295.91 67.31)
+		(uuid "e8f5964a-7aac-426a-9362-849e8b34226b")
+	)
+	(no_connect
+		(at 341.63 52.07)
+		(uuid "f1e9d8cc-28ac-40d3-81f4-b416fb3d3734")
+	)
+	(no_connect
+		(at 334.01 134.62)
+		(uuid "f62c0adf-a06c-4822-8740-4ccd8ea41b20")
+	)
+	(no_connect
+		(at 59.69 49.53)
+		(uuid "fa2887a9-aeca-4868-b1ad-8d79d17c236f")
 	)
 	(wire
 		(pts
@@ -6987,7 +7059,7 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 173.99) (xy 123.19 173.99)
+			(xy 104.14 171.45) (xy 115.57 171.45)
 		)
 		(stroke
 			(width 0)
@@ -7024,16 +7096,6 @@
 			(type default)
 		)
 		(uuid "0a112c30-f31e-49fa-ae60-47066fda2654")
-	)
-	(wire
-		(pts
-			(xy 341.63 64.77) (xy 353.06 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0b667c17-eca8-44ed-aceb-57b1dbc01c2b")
 	)
 	(wire
 		(pts
@@ -7087,6 +7149,16 @@
 	)
 	(wire
 		(pts
+			(xy 176.53 107.95) (xy 182.88 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0f7134a1-0aa2-41e0-ada4-1b3b0b34f0fb")
+	)
+	(wire
+		(pts
 			(xy 317.5 228.6) (xy 339.09 228.6)
 		)
 		(stroke
@@ -7094,6 +7166,16 @@
 			(type default)
 		)
 		(uuid "0f7f73d9-4137-4f17-8706-15a33add20cf")
+	)
+	(wire
+		(pts
+			(xy 86.36 191.77) (xy 91.44 191.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "110acebe-0727-4c09-abbb-704a44d300e1")
 	)
 	(wire
 		(pts
@@ -7134,16 +7216,6 @@
 			(type default)
 		)
 		(uuid "12999d0f-d15c-4d91-8fdc-a7cab2fd179b")
-	)
-	(wire
-		(pts
-			(xy 254 77.47) (xy 265.43 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "12cae883-e1cf-4a53-bad3-298656116f38")
 	)
 	(wire
 		(pts
@@ -7247,6 +7319,16 @@
 	)
 	(wire
 		(pts
+			(xy 156.21 91.44) (xy 156.21 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e9ea10a-f095-46d5-92fd-f73b124e2bb7")
+	)
+	(wire
+		(pts
 			(xy 284.48 90.17) (xy 295.91 90.17)
 		)
 		(stroke
@@ -7264,16 +7346,6 @@
 			(type default)
 		)
 		(uuid "1f7856c9-43da-44c6-9caa-fd91d5e74de5")
-	)
-	(wire
-		(pts
-			(xy 341.63 54.61) (xy 353.06 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "20727f11-eb08-4256-8e6d-9400b73d0a67")
 	)
 	(wire
 		(pts
@@ -7417,13 +7489,13 @@
 	)
 	(wire
 		(pts
-			(xy 254 74.93) (xy 265.43 74.93)
+			(xy 176.53 91.44) (xy 176.53 95.25)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2a199c14-711c-4e36-801e-42e93e8ef3ec")
+		(uuid "2a36de9a-3f87-4973-b231-3f6ff86a1dc7")
 	)
 	(wire
 		(pts
@@ -7457,7 +7529,7 @@
 	)
 	(wire
 		(pts
-			(xy 250.19 52.07) (xy 295.91 52.07)
+			(xy 226.06 52.07) (xy 242.57 52.07)
 		)
 		(stroke
 			(width 0)
@@ -7487,23 +7559,23 @@
 	)
 	(wire
 		(pts
-			(xy 254 82.55) (xy 265.43 82.55)
+			(xy 91.44 144.78) (xy 91.44 158.75)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2d11523e-6321-4d53-8ab3-de85871f3bf6")
+		(uuid "2eea298b-97bd-42e8-9d20-cc9240427039")
 	)
 	(wire
 		(pts
-			(xy 254 80.01) (xy 265.43 80.01)
+			(xy 176.53 100.33) (xy 176.53 107.95)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2ec06347-3890-45ec-9b19-f72acf9369db")
+		(uuid "2f47768a-afd5-42b4-820c-83c9b56e3b7e")
 	)
 	(wire
 		(pts
@@ -7514,6 +7586,16 @@
 			(type default)
 		)
 		(uuid "31193537-4d71-47af-aa74-19cf81143abb")
+	)
+	(wire
+		(pts
+			(xy 167.64 91.44) (xy 167.64 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "32658fbd-48df-4b6b-81fa-46853f3f4139")
 	)
 	(wire
 		(pts
@@ -7577,7 +7659,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 96.52) (xy 156.21 96.52)
+			(xy 148.59 91.44) (xy 156.21 91.44)
 		)
 		(stroke
 			(width 0)
@@ -7667,16 +7749,6 @@
 	)
 	(wire
 		(pts
-			(xy 353.06 39.37) (xy 341.63 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3dfd3e9e-f544-48be-b772-36b2b0aa8050")
-	)
-	(wire
-		(pts
 			(xy 212.09 171.45) (xy 212.09 173.99)
 		)
 		(stroke
@@ -7684,6 +7756,16 @@
 			(type default)
 		)
 		(uuid "3e7a9353-ea96-48e6-96c7-11c32e2c8a28")
+	)
+	(wire
+		(pts
+			(xy 104.14 166.37) (xy 115.57 166.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3f03b7ca-f591-4991-88fc-fa6ae8ec26b9")
 	)
 	(wire
 		(pts
@@ -7767,7 +7849,7 @@
 	)
 	(wire
 		(pts
-			(xy 284.48 67.31) (xy 295.91 67.31)
+			(xy 284.48 80.01) (xy 295.91 80.01)
 		)
 		(stroke
 			(width 0)
@@ -7807,6 +7889,16 @@
 	)
 	(wire
 		(pts
+			(xy 91.44 191.77) (xy 91.44 194.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45500d35-22b7-459d-992a-ceb9261b9c83")
+	)
+	(wire
+		(pts
 			(xy 262.89 160.02) (xy 262.89 162.56)
 		)
 		(stroke
@@ -7817,7 +7909,7 @@
 	)
 	(wire
 		(pts
-			(xy 341.63 46.99) (xy 353.06 46.99)
+			(xy 341.63 74.93) (xy 353.06 74.93)
 		)
 		(stroke
 			(width 0)
@@ -7857,6 +7949,26 @@
 	)
 	(wire
 		(pts
+			(xy 242.57 52.07) (xy 295.91 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4ab7a17e-71f3-44b0-89b1-8d03e91dd8f5")
+	)
+	(wire
+		(pts
+			(xy 82.55 144.78) (xy 86.36 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b2e0a39-f3c6-4b35-8360-d55fe5c03159")
+	)
+	(wire
+		(pts
 			(xy 386.08 219.71) (xy 386.08 220.98)
 		)
 		(stroke
@@ -7884,6 +7996,16 @@
 			(type default)
 		)
 		(uuid "4cdbcf4a-e44c-4513-b839-0069431c692f")
+	)
+	(wire
+		(pts
+			(xy 167.64 102.87) (xy 182.88 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e1ca84f-2893-433c-9865-6c0adae5eae0")
 	)
 	(wire
 		(pts
@@ -7947,13 +8069,13 @@
 	)
 	(wire
 		(pts
-			(xy 353.06 62.23) (xy 341.63 62.23)
+			(xy 242.57 60.96) (xy 242.57 64.77)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "54cf9f44-5f7a-4b89-8ad8-4937ed044596")
+		(uuid "53dbc8d4-9f70-4306-85d4-c54593a16067")
 	)
 	(wire
 		(pts
@@ -7964,6 +8086,16 @@
 			(type default)
 		)
 		(uuid "563101ac-2af5-4167-b266-64325600e695")
+	)
+	(wire
+		(pts
+			(xy 242.57 49.53) (xy 295.91 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "56b6443c-0538-4d51-bb53-3e2d0ae54847")
 	)
 	(wire
 		(pts
@@ -8097,7 +8229,7 @@
 	)
 	(wire
 		(pts
-			(xy 341.63 67.31) (xy 353.06 67.31)
+			(xy 295.91 77.47) (xy 284.48 77.47)
 		)
 		(stroke
 			(width 0)
@@ -8164,26 +8296,6 @@
 			(type default)
 		)
 		(uuid "66f7276c-ccdc-4cb6-9015-8acdda050721")
-	)
-	(wire
-		(pts
-			(xy 322.58 143.51) (xy 322.58 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "674cd154-d6cb-468f-984e-21d136f03089")
-	)
-	(wire
-		(pts
-			(xy 322.58 134.62) (xy 322.58 138.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6816bad5-db9e-4c36-b0f4-1314cbf775d7")
 	)
 	(wire
 		(pts
@@ -8397,6 +8509,26 @@
 	)
 	(wire
 		(pts
+			(xy 167.64 91.44) (xy 176.53 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "76f04de4-eb12-4672-ad5a-cd57af99da5d")
+	)
+	(wire
+		(pts
+			(xy 163.83 102.87) (xy 167.64 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "778d0e1f-a572-4072-99b1-15916860c943")
+	)
+	(wire
+		(pts
 			(xy 280.67 213.36) (xy 280.67 215.9)
 		)
 		(stroke
@@ -8454,6 +8586,16 @@
 			(type default)
 		)
 		(uuid "7d5910b4-4153-4a67-8e55-12dbda2b1864")
+	)
+	(wire
+		(pts
+			(xy 101.6 144.78) (xy 91.44 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7dc5d25b-a821-456b-b351-e2610637a697")
 	)
 	(wire
 		(pts
@@ -8537,16 +8679,6 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 102.87) (xy 163.83 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "80aa0c37-afe2-4467-898c-a5d8d2244285")
-	)
-	(wire
-		(pts
 			(xy 394.97 227.33) (xy 398.78 227.33)
 		)
 		(stroke
@@ -8617,7 +8749,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 176.53) (xy 111.76 176.53)
+			(xy 115.57 176.53) (xy 104.14 176.53)
 		)
 		(stroke
 			(width 0)
@@ -8664,6 +8796,16 @@
 			(type default)
 		)
 		(uuid "89b648f8-d69e-4812-9eaf-54cc248eb2aa")
+	)
+	(wire
+		(pts
+			(xy 91.44 189.23) (xy 91.44 191.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8b4cc621-187d-4660-99ea-d54624b1f902")
 	)
 	(wire
 		(pts
@@ -8767,6 +8909,16 @@
 	)
 	(wire
 		(pts
+			(xy 101.6 152.4) (xy 101.6 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9211b0a8-7c41-41c9-8e86-4ad6ea37b6f2")
+	)
+	(wire
+		(pts
 			(xy 368.3 85.09) (xy 374.65 85.09)
 		)
 		(stroke
@@ -8774,6 +8926,16 @@
 			(type default)
 		)
 		(uuid "933dbec8-0b3b-42d9-9c9b-2216997ff55a")
+	)
+	(wire
+		(pts
+			(xy 101.6 144.78) (xy 101.6 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "93fc6ccb-267a-4824-8365-3b2c4436a810")
 	)
 	(wire
 		(pts
@@ -8787,13 +8949,23 @@
 	)
 	(wire
 		(pts
-			(xy 341.63 44.45) (xy 353.06 44.45)
+			(xy 295.91 39.37) (xy 284.48 39.37)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "94363f6c-037f-4912-bc74-e895677cdb05")
+	)
+	(wire
+		(pts
+			(xy 284.48 54.61) (xy 295.91 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "94aa7c68-bc6e-4e1b-89ee-4b308f8a4933")
 	)
 	(wire
 		(pts
@@ -8807,7 +8979,7 @@
 	)
 	(wire
 		(pts
-			(xy 341.63 52.07) (xy 353.06 52.07)
+			(xy 295.91 34.29) (xy 284.48 34.29)
 		)
 		(stroke
 			(width 0)
@@ -8867,6 +9039,26 @@
 	)
 	(wire
 		(pts
+			(xy 242.57 52.07) (xy 242.57 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9ba0aede-05ac-4258-a6a5-ea71b8a14078")
+	)
+	(wire
+		(pts
+			(xy 86.36 144.78) (xy 86.36 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c01ed09-f569-4eed-97db-9e0d8079cb0d")
+	)
+	(wire
+		(pts
 			(xy 151.13 40.64) (xy 151.13 38.1)
 		)
 		(stroke
@@ -8904,16 +9096,6 @@
 			(type default)
 		)
 		(uuid "a01b1283-febd-4b7e-b405-98334713d6ae")
-	)
-	(wire
-		(pts
-			(xy 322.58 152.4) (xy 309.88 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a1f8fd90-a30d-4e46-a692-edace3b9af4d")
 	)
 	(wire
 		(pts
@@ -9057,6 +9239,16 @@
 	)
 	(wire
 		(pts
+			(xy 242.57 45.72) (xy 242.57 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b1a00501-8881-43c9-8652-53e31ef06ae2")
+	)
+	(wire
+		(pts
 			(xy 295.91 74.93) (xy 284.48 74.93)
 		)
 		(stroke
@@ -9117,6 +9309,16 @@
 	)
 	(wire
 		(pts
+			(xy 86.36 189.23) (xy 86.36 191.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b763cde3-26d0-463d-b404-9fa565e58b93")
+	)
+	(wire
+		(pts
 			(xy 364.49 200.66) (xy 368.3 200.66)
 		)
 		(stroke
@@ -9124,6 +9326,16 @@
 			(type default)
 		)
 		(uuid "b77084cf-952b-4cae-9756-861efd22ae80")
+	)
+	(wire
+		(pts
+			(xy 284.48 44.45) (xy 295.91 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b7905eb2-8503-499c-a74a-6d7941e73629")
 	)
 	(wire
 		(pts
@@ -9147,16 +9359,6 @@
 	)
 	(wire
 		(pts
-			(xy 284.48 57.15) (xy 295.91 57.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b8cfb5e0-bb91-4f81-b355-68d7fe5b4be6")
-	)
-	(wire
-		(pts
 			(xy 364.49 193.04) (xy 368.3 193.04)
 		)
 		(stroke
@@ -9164,16 +9366,6 @@
 			(type default)
 		)
 		(uuid "b909a3d8-7754-4eba-8994-b659dfa771a1")
-	)
-	(wire
-		(pts
-			(xy 334.01 134.62) (xy 322.58 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b9fae1ef-db16-41e9-a21b-2afe816ebbe9")
 	)
 	(wire
 		(pts
@@ -9204,16 +9396,6 @@
 			(type default)
 		)
 		(uuid "bd3ff65f-2c5a-4a8b-b216-64e958204141")
-	)
-	(wire
-		(pts
-			(xy 156.21 96.52) (xy 156.21 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bdad6296-bdcb-4e62-baed-66bbfddda5a7")
 	)
 	(wire
 		(pts
@@ -9264,6 +9446,16 @@
 			(type default)
 		)
 		(uuid "bffef2ab-88f0-4f80-a3a8-94f54a708e29")
+	)
+	(wire
+		(pts
+			(xy 167.64 100.33) (xy 167.64 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c0748cef-f380-48ad-8d67-e7eaeff022a9")
 	)
 	(wire
 		(pts
@@ -9437,6 +9629,16 @@
 	)
 	(wire
 		(pts
+			(xy 341.63 62.23) (xy 355.6 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cdacb4ed-c32d-4fd9-82cb-e33186b1b9d0")
+	)
+	(wire
+		(pts
 			(xy 279.4 175.26) (xy 279.4 177.8)
 		)
 		(stroke
@@ -9577,6 +9779,16 @@
 	)
 	(wire
 		(pts
+			(xy 284.48 57.15) (xy 295.91 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dba89ad0-9d2e-431f-a4cd-cb4bc3733b13")
+	)
+	(wire
+		(pts
 			(xy 59.69 39.37) (xy 60.96 39.37)
 		)
 		(stroke
@@ -9584,6 +9796,16 @@
 			(type default)
 		)
 		(uuid "dd618d70-53e7-4607-9177-1c9fcbf56478")
+	)
+	(wire
+		(pts
+			(xy 341.63 72.39) (xy 353.06 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dd753a42-6030-40de-9922-079e520ced72")
 	)
 	(wire
 		(pts
@@ -9627,6 +9849,26 @@
 	)
 	(wire
 		(pts
+			(xy 242.57 36.83) (xy 242.57 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df9172c1-7561-4c31-ac82-3547f639917d")
+	)
+	(wire
+		(pts
+			(xy 295.91 46.99) (xy 284.48 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e00b4430-48f3-414c-8bc1-fca9cd431774")
+	)
+	(wire
+		(pts
 			(xy -74.93 238.76) (xy -74.93 257.81)
 		)
 		(stroke
@@ -9647,6 +9889,16 @@
 	)
 	(wire
 		(pts
+			(xy 156.21 91.44) (xy 167.64 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e2e591f5-3955-4d82-acd4-2b069820fe15")
+	)
+	(wire
+		(pts
 			(xy 364.49 175.26) (xy 368.3 175.26)
 		)
 		(stroke
@@ -9657,7 +9909,7 @@
 	)
 	(wire
 		(pts
-			(xy 341.63 49.53) (xy 353.06 49.53)
+			(xy 295.91 31.75) (xy 284.48 31.75)
 		)
 		(stroke
 			(width 0)
@@ -9777,7 +10029,7 @@
 	)
 	(wire
 		(pts
-			(xy 250.19 49.53) (xy 295.91 49.53)
+			(xy 226.06 49.53) (xy 242.57 49.53)
 		)
 		(stroke
 			(width 0)
@@ -9787,13 +10039,13 @@
 	)
 	(wire
 		(pts
-			(xy 284.48 44.45) (xy 295.91 44.45)
+			(xy 104.14 181.61) (xy 107.95 181.61)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ed1b5da7-da8e-461c-a562-f369c159ccdd")
+		(uuid "ecee0e54-e900-43c9-80fc-345c92a2dfda")
 	)
 	(wire
 		(pts
@@ -9917,13 +10169,23 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 107.95) (xy 175.26 107.95)
+			(xy 163.83 107.95) (xy 176.53 107.95)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "f65b2b88-7b16-4c45-a2f0-eb3ea2a6b804")
+	)
+	(wire
+		(pts
+			(xy 341.63 39.37) (xy 353.06 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f6f00ce1-043e-41a3-88fd-2ddc74438f0c")
 	)
 	(wire
 		(pts
@@ -9957,6 +10219,16 @@
 	)
 	(wire
 		(pts
+			(xy 91.44 144.78) (xy 86.36 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa863ba2-e1b0-4c15-9bb0-d452f55e5e1e")
+	)
+	(wire
+		(pts
 			(xy -21.59 227.33) (xy -21.59 250.19)
 		)
 		(stroke
@@ -9964,16 +10236,6 @@
 			(type default)
 		)
 		(uuid "fab6046d-60c6-4524-905f-2c490d91fa77")
-	)
-	(wire
-		(pts
-			(xy 284.48 54.61) (xy 295.91 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fb3d7045-3367-4170-a6b4-1e9016e7fc07")
 	)
 	(wire
 		(pts
@@ -12832,7 +13094,97 @@
 			"AABTAAAAbQAAADIAAAArAAAAaQAAAEQAAABnAAAAZwAAAGcAAABkAAAAdAAAAFkAAABzAAAAdgAA"
 			"AHAAAABzAAAANwAAAGwAAAAzAAAAdgAAADIAAAA3AAAATQAAAEUAAAA5AAAASQAAAGcAAABMAAAA"
 			"MwAAAGkAAABBAAAAZwAAAFUAAABTAAAAbwAAAHUAAABEAAAATAAAADMAAABkAAAAdwAAAEkAAABE"
-			"AAAAUQAAACsAAABIAAAAawAAAE4AAABEAAAAQQAAAC8AAAA0AAAARAAAAEIAAA=="
+			"AAAAUQAAACsAAABIAAAAawAAAE4AAABEAAAAQQAAAC8AAAA0AAAARAAAAEIAAAAAAAAAcAMAAAAA"
+			"AADAnxOiO3oAAAEAAKA7egAAAAAAAAAAAAAAAAAAAAAAADjW2TM7egAADg1h1ZarQzOt8Dz+4yYa"
+			"CD0AAAAAAAAAMNv66cRgAAAAbwPfxwMAAAAAAAAAAAAAAPdboQEAAAAAAAAAAAAAAKD1W6E7egAA"
+			"AAAAADt6AACQOW/exGAAAJA5b97EYAAAkDlv3sRgAAABAAAAAAAAAKD4OevEYAAADQAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAACAPzt6AAANAAAAAAAAAAAAAAAAAAAAAPlboTt6AADYuLzqxGAAAAEA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgD87egAAAAAAAAAAAAAAAAAAAAAAAFDt1DM7egAA+Li8"
+			"6sRgAAAAAAAAAAAAAAAAAADEYAAA0PGd0MRgAAAAAAAAAAAAAAAAAAAAAAAAcKo+6sRgAAAEAAAA"
+			"AAAAAAYAAAAAAAAAUKCv0MRgAAAgoh7TxGAAAAQAAAAAAAAAcGi06sRgAAAEAAAAAAAAAAYAAAAA"
+			"AAAAQLCe0MRgAAAAAAAAAAAAAAAAAAAAAAAAAAKf0MRgAACgJbgzO3oAAJi5vOrEYAAAAAAAAAAA"
+			"AAAAAAAAxGAAAMC1ntDEYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMD5W6E7egAAAAAAADt6AADA8Y4AxWAAAMDxjgDFYAAA"
+			"wPGOAMVgAAABAAAAAAAAAAAAAAAAAAAA/////wEAAAAAAAAAAAAAAAAAAAAAAPA/AAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAKGcMQAAnDEAAABgAAAAAAAAxGAAAIi6"
+			"vOrEYAAAAAAAAAAAAAAAAAAAxGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOy5JwD88QcAAKtO"
+			"DAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA/v7+/u4/AAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAACQVBXoxGAAAAQAAAAAAAAABgAAAAAAAACwvrzqxGAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAJEBAAAAAAAAECpL6sRgAABweMTqxGAAAAY0JAA5AAAA57ooABup"
+			"JAAgILXqxGAAADkAAAAKqSgAXgojADkAAADnuigAc38jAKA9turEYAAAQgAAAIRsKAD5PSIAQgAA"
+			"ADndKQAvIiMAcDe66sRgAAA5AAAACqkoABqvIQA5AAAA57ooAMtVIgCQsLbjxAAAAG0AAABGAAAA"
+			"awAAAHoAAAB0AAAAMgAAADIAAABHAAAAVAAAAGEAAAB1AAAATAAAAFQAAABUAAAAdAAAAG8AAAAy"
+			"AAAAKwAAADkAAABWAAAAWgAAADYAAAAzAAAASAAAAGcAAABqAAAAYQAAAC8AAAAvAAAAMgAAAE4A"
+			"AAA1AAAAdAAAAGoAAAB5AAAAKwAAADMAAAB0AAAAQwAAAFkAAAAyAAAAUAAAAEoAAAAvAAAATAAA"
+			"ADYAAAA2AAAAMAAAAEUAAABVAAAAcwAAAFgAAABOAAAAMAAAAHQAAABEAAAAbQAAAGUAAABoAAAA"
+			"TQAAAFMAAABWAAAAUgAAAGkAAAA2AAAAWAAAAFkAAABUAAAASgAAAFoAAABuAAAAcgAAAHMAAABt"
+			"AAAAawAAAHgAAABtAAAAegAAAFcAAABTAAAAUQAAAG0AAAB4AAAAbwAAAHMAAAB4AAAAWQAAADAA"
+			"AABKAAAAWgAAAHUAAABuAAAAUQAAAGMAAABQAAAAWAAAAHQAAAA2AAAAcwAAAFgAAABlAAAAdgAA"
+			"AFIAAABZAAAALwAAADkAAABWAAAARQAAAFEAAAAyAAAATAAAAGkAAAA2AAAAdwAAAEUAAAB5AAAA"
+			"MgAAAFcAAAB1AAAAQgAAAGEAAABRAAAASAAAAEYAAABrAAAASgAAAGkAAABhAAAANgAAAEMAAABL"
+			"AAAASwAAAEwAAAAyAAAAOQAAAHkAAABkAAAANAAAAHgAAABBAAAAaAAAAHIAAABPAAAAcAAAAHAA"
+			"AABQAAAAcgAAADEAAAA3AAAAVQAAAEYAAAAxAAAAcgAAACsAAABZAAAAZAAAAEEAAABWAAAARgAA"
+			"ADEAAABzAAAATAAAAGYAAAA1AAAAegAAAHEAAABPAAAALwAAAFgAAABGAAAAWAAAADEAAAB0AAAA"
+			"VQAAAFIAAABNAAAAQwAAAGcAAAAwAAAAKwAAAGwAAAA2AAAAagAAAGgAAAA0AAAAZQAAACsAAABM"
+			"AAAAUgAAADkAAABuAAAAVwAAACsAAAB1AAAAcgAAAGIAAABXAAAAMgAAAEgAAAAxAAAAMgAAADkA"
+			"AABtAAAAdQAAAHQAAABlAAAAZgAAADUAAAAzAAAAUQAAACsAAABIAAAAagAAAEcAAAB2AAAALwAA"
+			"AFEAAABTAAAAaAAAADkAAAA1AAAANwAAADcAAAB5AAAAeQAAAG0AAABXAAAAUAAAADYAAAB4AAAA"
+			"NgAAAGoAAAAxAAAAbgAAAEQAAAB1AAAARwAAAFQAAABKAAAAcgAAAEgAAAB0AAAAaQAAAFMAAABk"
+			"AAAAcwAAAEkAAABoAAAAaQAAAFIAAAAwAAAANgAAAFkAAABSAAAATwAAAEgAAAAyAAAARQAAAHAA"
+			"AABwAAAAbwAAAGEAAABHAAAAdAAAAHAAAABWAAAAQQAAAGcAAABZAAAAWQAAAGMAAABQAAAALwAA"
+			"ADkAAABuAAAATgAAAGkAAAAyAAAARAAAAFYAAAAxAAAASgAAAEMAAABXAAAASAAAAGoAAAB4AAAA"
+			"KwAAAFAAAABzAAAANwAAAGMAAAAzAAAAZQAAADEAAAAxAAAANgAAAGoAAABZAAAAUAAAAGQAAAB1"
+			"AAAAZQAAAHMAAAA2AAAAWQAAAFEAAABXAAAAVgAAAEcAAABCAAAAZwAAADMAAABsAAAANQAAAFQA"
+			"AABoAAAANwAAAGUAAAArAAAATQAAAC8AAABhAAAAQgAAAEEAAAA3AAAARgAAAHkAAAA4AAAAbQAA"
+			"ADcAAABjAAAAcwAAAHYAAAAyAAAAYgAAAGwAAAA0AAAATQAAAGIAAAAzAAAAdgAAAHUAAABJAAAA"
+			"TwAAAEsAAABvAAAAMAAAAGUAAAB0AAAAYQAAAFcAAABvAAAAVgAAAGEAAABXAAAAbQAAAFUAAABI"
+			"AAAAVAAAADUAAABzAAAAZgAAAFEAAABIAAAAeQAAADcAAABOAAAARwAAAEQAAAByAAAASQAAADAA"
+			"AABiAAAASwAAAFUAAAAxAAAATwAAAFIAAABqAAAAUwAAAGIAAABhAAAAYQAAAHkAAABxAAAAbwAA"
+			"AGoAAABRAAAAbAAAAEIAAABZAAAARAAAAEsAAAA5AAAASAAAAFQAAAByAAAAdQAAAFAAAABFAAAA"
+			"dgAAAHYAAAA0AAAAeAAAAHYAAAB2AAAAMwAAADQAAABJAAAAZwAAAGsAAABEAAAARwAAAE4AAAA5"
+			"AAAAKwAAAHcAAABiAAAALwAAAGwAAAB5AAAAVAAAAHYAAAB6AAAAOAAAAE0AAAA4AAAANwAAAFIA"
+			"AAAwAAAAZAAAAFQAAABVAAAAMQAAAHYAAABMAAAATAAAAEwAAAA3AAAALwAAAHcAAAArAAAAZQAA"
+			"AGUAAABmAAAAOAAAADkAAABWAAAAWAAAAFgAAAA3AAAARgAAADkAAAArAAAAMwAAAFkAAABVAAAA"
+			"QwAAAGcAAABWAAAAbQAAAHMAAAA1AAAAbQAAADAAAAB0AAAARAAAAFMAAAB5AAAAcwAAAHIAAABJ"
+			"AAAAdwAAAG0AAABVAAAAeAAAADQAAABlAAAASAAAAGcAAABRAAAARgAAAHgAAABkAAAASAAAAGUA"
+			"AABuAAAAbwAAADYAAAA2AAAAZQAAAG4AAABwAAAAUAAAAFAAAABEAAAAQQAAAEEAAAA5AAAAVAAA"
+			"AFgAAABXAAAALwAAADUAAABCAAAAYgAAAEcAAABqAAAAbwAAAFcAAABJAAAAcgAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABpAAAAQQAAAHUA"
+			"AAB2AAAAWAAAAC8AAAA4AAAAdQAAAHEAAABhAAAAZgAAAG4AAABqAAAAagAAAHcAAABmAAAASQAA"
+			"AHoAAAA2AAAAOQAAAGsAAAAvAAAAdgAAAHkAAABwAAAAegAAAEoAAAA2AAAAOQAAAG4AAABPAAAA"
+			"WAAAAEwAAAA3AAAAOAAAAFoAAABrAAAATQAAAHYAAABQAAAATgAAAE4AAAAvAAAAdAAAADQAAAAr"
+			"AAAATwAAAEUAAABwAAAAVgAAAHIAAABrAAAAUgAAAGcAAABJAAAAYwAAAGUAAABlAAAAcAAAADkA"
+			"AAAzAAAAMwAAADMAAAAwAAAAQQAAAGcAAABDAAAATgAAAEgAAABUAAAAdgAAAEwAAABBAAAAQQAA"
+			"ACsAAAArAAAAeAAAAFoAAABNAAAAawAAAGMAAAB4AAAAbwAAAHcAAAA1AAAAdgAAAFEAAABZAAAA"
+			"dAAAAEoAAABtAAAAWQAAACsAAABoAAAAdwAAADYAAAA5AAAAagAAAHEAAABPAAAAagAAAFAAAABR"
+			"AAAAOAAAADkAAAA5AAAARAAAADQAAABiAAAATgAAAGgAAAB3AAAAaQAAAEsAAABXAAAAawAAADUA"
+			"AABYAAAAbAAAADQAAAB1AAAALwAAAE8AAAA5AAAALwAAADIAAAA1AAAAawAAADMAAABiAAAAeQAA"
+			"AHcAAAA2AAAAWAAAAFIAAABNAAAAdQAAAEwAAABrAAAANwAAAGsAAAA1AAAASgAAAFQAAAB5AAAA"
+			"MgAAAG0AAAB2AAAAZgAAADgAAAAvAAAANwAAADcAAABEAAAAMQAAADcAAABVAAAATgAAAGYAAABz"
+			"AAAAagAAAFcAAABWAAAAYwAAAFUAAAB6AAAASgAAADQAAABhAAAAaQAAAHoAAABTAAAASAAAAEsA"
+			"AABJAAAASgAAAFIAAABGAAAAQwAAAGwAAABwAAAATgAAAEoAAABCAAAAVQAAADIAAAAwAAAASgAA"
+			"AFoAAABzAAAAdwAAAEcAAABEAAAARwAAAGEAAAA0AAAAMQAAAGgAAAAxAAAARQAAAG0AAABnAAAA"
+			"TgAAAHAAAABPAAAASQAAAEUAAABKAAAAagAAAGoAAAA2AAAAZQAAAGoAAABQAAAAVAAAAEkAAAA1"
+			"AAAAeQAAAE0AAABSAAAAegAAAGYAAAAvAAAAOAAAAFYAAABFAAAAZAAAAGgAAABhAAAAVQAAAEkA"
+			"AAAvAAAAQgAAAGIAAABPAAAAWgAAAEsAAAB4AAAASgAAAHMAAABuAAAAKwAAAHoAAABXAAAAeQAA"
+			"AGMAAABjAAAAUwAAADUAAABwAAAAYQAAAEkAAAA2AAAAawAAADQAAABNAAAASA=="
 		)
 	)
 	(label "nRF52_TX"
@@ -12846,27 +13198,17 @@
 		(uuid "05c13dac-9ba1-4df2-a117-4d06f9fb86e6")
 	)
 	(label "LED04"
-		(at 353.06 49.53 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "0a4a5b94-6538-4e9b-9648-bc2703376000")
-	)
-	(label "P1.09{slash}TD3"
-		(at 346.71 62.23 0)
+		(at 284.48 31.75 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "0d0d1fb5-c44e-4f7d-afcb-72d0e0517f82")
+		(uuid "0a4a5b94-6538-4e9b-9648-bc2703376000")
 	)
 	(label "NFC2"
-		(at 260.35 52.07 0)
+		(at 236.22 52.07 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12925,6 +13267,16 @@
 		)
 		(uuid "1a41220f-6a14-457f-813e-02fe86a80f0b")
 	)
+	(label "1.09{slash}T3"
+		(at 346.71 62.23 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "232dca40-ae87-4b79-988d-304736be94e4")
+	)
 	(label "CR2032_IN"
 		(at 53.34 107.95 0)
 		(effects
@@ -12945,18 +13297,8 @@
 		)
 		(uuid "26b384d3-3661-49d4-9b56-d6c7842f6a65")
 	)
-	(label "P0.07{slash}TCLK"
-		(at 285.75 44.45 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "33ce4e49-ae5c-47dd-b506-439a71d9b28c")
-	)
 	(label "SCL"
-		(at 123.19 173.99 180)
+		(at 115.57 171.45 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12966,14 +13308,24 @@
 		(uuid "3ad7dc33-9781-4db2-acf8-d38cab5f3153")
 	)
 	(label "LED05"
-		(at 353.06 52.07 180)
+		(at 284.48 34.29 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "40771844-9256-4593-a4e5-ff0173e58748")
+	)
+	(label "0.07{slash}TC"
+		(at 284.48 44.45 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "40900317-4322-4d5f-a9bf-d33616e190db")
 	)
 	(label "BUZZER"
 		(at 284.48 36.83 0)
@@ -12995,16 +13347,6 @@
 		)
 		(uuid "4535a3bc-a084-4fdf-a7a8-bcc000287164")
 	)
-	(label "P0.20"
-		(at 255.27 77.47 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "45cfa315-e2f3-4f02-bf4f-6eeb628eb72f")
-	)
 	(label "SCL"
 		(at -74.93 260.35 0)
 		(effects
@@ -13016,27 +13358,17 @@
 		(uuid "48cc8f11-02e6-4d86-97e0-73422da3ebe4")
 	)
 	(label "LED10"
-		(at 353.06 67.31 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "4a6a12c2-8356-4e06-8394-3e32bf0aca5f")
-	)
-	(label "P0.12{slash}TD1"
-		(at 285.75 57.15 0)
+		(at 284.48 77.47 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "4d788a90-d8fa-4d2b-bb8f-a56f79d58486")
+		(uuid "4a6a12c2-8356-4e06-8394-3e32bf0aca5f")
 	)
 	(label "MIC_DATA"
-		(at 284.48 67.31 0)
+		(at 284.48 80.01 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13076,34 +13408,24 @@
 		(uuid "5ce4aa84-6ea3-4589-83aa-8c57f4548e45")
 	)
 	(label "LED02"
-		(at 353.06 44.45 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "5dae0a03-fad7-4b1f-87e7-e73fe084bb21")
-	)
-	(label "LED06"
-		(at 353.06 54.61 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "6470dab3-e7a2-454a-88b3-b7586b8bcc30")
-	)
-	(label "P0.11{slash}TD2"
-		(at 285.75 54.61 0)
+		(at 284.48 39.37 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "66a17939-aa0c-44b4-9f47-9cf85850ac34")
+		(uuid "5dae0a03-fad7-4b1f-87e7-e73fe084bb21")
+	)
+	(label "0.12{slash}T1"
+		(at 284.48 57.15 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "62443f65-913e-4bf5-942d-a7a84465a58e")
 	)
 	(label "SDA"
 		(at 284.48 92.71 0)
@@ -13125,7 +13447,7 @@
 		)
 		(uuid "6e8208e6-751f-40c9-bcbe-8027ac72f025")
 	)
-	(label "MIC_DATA"
+	(label "MIC_CLK"
 		(at 176.53 243.84 180)
 		(effects
 			(font
@@ -13145,16 +13467,6 @@
 		)
 		(uuid "7b422608-7dab-4c65-9940-e7bad35e8f16")
 	)
-	(label "LED09"
-		(at 353.06 64.77 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "7b56a8b8-5444-47fd-920c-405451d587cd")
-	)
 	(label "DEC4_6"
 		(at 327.66 137.16 0)
 		(effects
@@ -13166,7 +13478,7 @@
 		(uuid "864d63ea-6984-4a7d-bfcf-53e375de9c31")
 	)
 	(label "SDA"
-		(at 175.26 102.87 180)
+		(at 182.88 102.87 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13194,16 +13506,6 @@
 			(justify left bottom)
 		)
 		(uuid "92599b2d-d724-4a73-bcbb-e7163e0dcede")
-	)
-	(label "P1.00{slash}TD0"
-		(at 346.71 39.37 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "92c15d2f-0946-4c72-8a8d-eb5be0c7554e")
 	)
 	(label "MAG"
 		(at 353.06 90.17 180)
@@ -13235,6 +13537,16 @@
 		)
 		(uuid "99d62779-49a0-4323-8d53-b143cf846ef4")
 	)
+	(label "LED06"
+		(at 353.06 72.39 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "9a4d5027-6373-43cf-b9fd-9c18c14f0f57")
+	)
 	(label "LED05"
 		(at 266.7 220.98 0)
 		(effects
@@ -13255,16 +13567,6 @@
 		)
 		(uuid "9fc954f0-5c4c-4bab-a45c-7691adf7fedc")
 	)
-	(label "P0.22"
-		(at 255.27 82.55 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a73a6928-58fa-4f75-8617-760129c82647")
-	)
 	(label "LED01"
 		(at 353.06 41.91 180)
 		(effects
@@ -13275,15 +13577,15 @@
 		)
 		(uuid "a9175bc3-2ea6-4371-a931-a28779d06cf1")
 	)
-	(label "P0.19"
-		(at 255.27 74.93 0)
+	(label "1.00{slash}T0"
+		(at 345.44 39.37 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "b82ac53d-75ca-4ff1-a7af-615bb19ac3af")
+		(uuid "baa0aed6-191c-48a0-b2a8-5d3a81a16512")
 	)
 	(label "LED11"
 		(at 228.6 143.51 0)
@@ -13375,15 +13677,25 @@
 		)
 		(uuid "ce30464b-bd17-4da8-a38b-7ddf48b00881")
 	)
-	(label "P0.21"
-		(at 255.27 80.01 0)
+	(label "LED09"
+		(at 284.48 46.99 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "d4525639-269b-47e8-9c29-5f5d90028434")
+		(uuid "cf68132b-d464-486d-a4d8-62b37adec488")
+	)
+	(label "0.11{slash}T2"
+		(at 284.48 54.61 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d2021162-364f-4bc5-8853-83857c099a11")
 	)
 	(label "LED12"
 		(at 245.11 140.97 0)
@@ -13396,7 +13708,7 @@
 		(uuid "d475d924-b484-4449-a3f1-335fd7f39245")
 	)
 	(label "SCL"
-		(at 175.26 107.95 180)
+		(at 182.88 107.95 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13476,7 +13788,7 @@
 		(uuid "e2009dc4-eefd-418c-b280-06e77149b83f")
 	)
 	(label "SDA"
-		(at 123.19 176.53 180)
+		(at 115.57 176.53 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13496,7 +13808,7 @@
 		(uuid "e793f5f6-87da-4a1d-a109-1a3a656263b4")
 	)
 	(label "LED03"
-		(at 353.06 46.99 180)
+		(at 353.06 74.93 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13506,7 +13818,7 @@
 		(uuid "ed016df5-0b0e-47f9-a851-59157a1e9254")
 	)
 	(label "NFC1"
-		(at 260.35 49.53 0)
+		(at 236.22 49.53 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13557,6 +13869,28 @@
 	)
 	(global_label "VCC"
 		(shape input)
+		(at 107.95 181.61 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "15fe628b-1ff7-4fb5-9806-cbc35cce8ac6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 114.5638 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "VCC"
+		(shape input)
 		(at 416.56 121.92 0)
 		(fields_autoplaced yes)
 		(effects
@@ -13573,6 +13907,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "VCC"
+		(shape input)
+		(at 82.55 144.78 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "2de0c80c-69fb-4360-a994-c014f776fbf9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 75.9362 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -13623,7 +13979,7 @@
 	)
 	(global_label "VCC"
 		(shape input)
-		(at 148.59 96.52 180)
+		(at 148.59 91.44 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13633,7 +13989,7 @@
 		)
 		(uuid "9e717eeb-734c-47f4-97b3-d538895828da")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 141.9762 96.52 0)
+			(at 141.9762 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13808,7 +14164,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "GRM0335C1E120JA01D"
 			(at 267.97 31.75 0)
 			(effects
 				(font
@@ -13817,7 +14173,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Murata Electronics"
 			(at 267.97 31.75 0)
 			(effects
 				(font
@@ -13826,7 +14182,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/murata-electronics/GRM0335C1E120JA01D/702410"
 			(at 267.97 31.75 0)
 			(effects
 				(font
@@ -13942,13 +14298,105 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 284.48 57.15 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp yes)
+		(uuid "049ee317-c658-4dd8-917a-f4a18e81679e")
+		(property "Reference" "TP16"
+			(at 276.86 57.15 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 281.178 53.975 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 284.48 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 284.48 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 284.48 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link1" "N/A"
+			(at 284.48 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN1" "N/A"
+			(at 284.48 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor1" "N/A"
+			(at 284.48 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d5eacaaa-f8cf-48ef-9ee7-350c4600e36a")
+		)
+		(instances
+			(project "orleon"
+				(path "/fdfe0b94-afa6-44ad-a7e5-312f182a8626"
+					(reference "TP16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "NRF52840-CKAA-F-R:NRF52840-CKAA-F-R")
 		(at 354.33 226.06 0)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "06fd976b-61d6-4223-9a1a-a9c02a26a044")
 		(property "Reference" "U101"
@@ -13967,7 +14415,7 @@
 				)
 			)
 		)
-		(property "Footprint" "orleon:BGA94C35P10X10_360X354X51N"
+		(property "Footprint" "orleon:BGA_0.25mm_94C35P10X10_360X354X51N"
 			(at 354.33 226.06 0)
 			(effects
 				(font
@@ -14035,7 +14483,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "NRF52840-CKAA-F-R"
 			(at 354.33 226.06 0)
 			(effects
 				(font
@@ -14044,7 +14492,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/nordic-semiconductor-asa/nrf52840-ckaa-f-r/15929808"
 			(at 354.33 226.06 0)
 			(effects
 				(font
@@ -14053,13 +14501,21 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Nordic Semiconductor ASA"
 			(at 354.33 226.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Extra" ""
+			(at 354.33 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "F5"
@@ -14360,7 +14816,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "1481a3cc-bab1-4439-aa4c-cf4967bdfa0f")
 		(property "Reference" "TP6"
 			(at 59.69 29.21 90)
@@ -14499,7 +14955,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "CL03A104KP3NNNC"
 			(at 373.38 137.16 0)
 			(effects
 				(font
@@ -14508,7 +14964,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Samsung Electro-Mechanics"
 			(at 373.38 137.16 0)
 			(effects
 				(font
@@ -14517,7 +14973,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL03A104KP3NNNC/3886773"
 			(at 373.38 137.16 0)
 			(effects
 				(font
@@ -14728,7 +15184,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "CL03A104KP3NNNC"
 			(at -8.89 231.14 0)
 			(effects
 				(font
@@ -14737,7 +15193,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Samsung Electro-Mechanics"
 			(at -8.89 231.14 0)
 			(effects
 				(font
@@ -14746,7 +15202,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL03A104KP3NNNC/3886773"
 			(at -8.89 231.14 0)
 			(effects
 				(font
@@ -14796,13 +15252,135 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Small")
+		(at 242.57 43.18 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1a0e2d52-89b9-455a-b2ca-b6be02142cb9")
+		(property "Reference" "C119"
+			(at 245.11 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "560P"
+			(at 245.11 41.275 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+			(at 242.57 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 242.57 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 242.57 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN1" "GRM0335C1E561JA01D"
+			(at 242.57 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor1" "Murata Electronics"
+			(at 242.57 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link1" "https://www.digikey.com/en/products/detail/murata-electronics/GRM0335C1E561JA01D/6624016"
+			(at 242.57 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Population" ""
+			(at 242.57 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
+			(at 242.57 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Extra" ""
+			(at 242.57 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "7635965a-b65a-49e0-bf99-d7e389193458")
+		)
+		(pin "2"
+			(uuid "4b66cf33-a6db-48c3-a290-158683e11a85")
+		)
+		(instances
+			(project "orleon"
+				(path "/fdfe0b94-afa6-44ad-a7e5-312f182a8626"
+					(reference "C119")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 80.01 44.45 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "1b0252ba-7ca0-4527-ac07-8c8d7856fc08")
 		(property "Reference" "TP4"
 			(at 87.63 44.45 90)
@@ -14942,7 +15520,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "GRM0335C1E120JA01D"
 			(at 387.35 231.14 0)
 			(effects
 				(font
@@ -14951,7 +15529,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Murata Electronics"
 			(at 387.35 231.14 0)
 			(effects
 				(font
@@ -14960,7 +15538,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/murata-electronics/GRM0335C1E120JA01D/702410"
 			(at 387.35 231.14 0)
 			(effects
 				(font
@@ -15028,7 +15606,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_Small"
+		(property "Value" "1K"
 			(at 247.65 156.2099 0)
 			(effects
 				(font
@@ -15064,7 +15642,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "RC0201FR-071KL"
 			(at 245.11 154.94 0)
 			(effects
 				(font
@@ -15073,7 +15651,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/yageo/RC0201FR-071KL/3202389"
 			(at 245.11 154.94 0)
 			(effects
 				(font
@@ -15082,7 +15660,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "YAGEO"
 			(at 245.11 154.94 0)
 			(effects
 				(font
@@ -15124,7 +15702,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "RED"
+		(property "Value" "YELLOW"
 			(at 293.37 185.3564 90)
 			(effects
 				(font
@@ -15169,7 +15747,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "APG0603SYC-TT"
 			(at 290.83 184.15 0)
 			(effects
 				(font
@@ -15178,7 +15756,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/kingbright/APG0603SYC-TT/6072764"
 			(at 290.83 184.15 0)
 			(effects
 				(font
@@ -15187,7 +15765,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "APG0603SYC-TT"
 			(at 290.83 184.15 0)
 			(effects
 				(font
@@ -15212,34 +15790,35 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 284.48 54.61 90)
+		(lib_id "Device:C_Small")
+		(at 242.57 58.42 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "2524f733-6136-49f6-8580-b72b9a9c3a89")
-		(property "Reference" "TP19"
-			(at 276.86 54.61 90)
+		(uuid "2341948a-44d3-466e-8ecd-f790ed5370d3")
+		(property "Reference" "C120"
+			(at 245.11 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Value" "TestPoint"
-			(at 281.178 57.785 90)
+		(property "Value" "560P"
+			(at 245.11 56.515 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
+				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 284.48 59.69 0)
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+			(at 242.57 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15248,7 +15827,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 284.48 59.69 0)
+			(at 242.57 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15257,7 +15836,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 284.48 54.61 0)
+			(at 242.57 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15265,8 +15844,8 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" "N/A"
-			(at 284.48 54.61 0)
+		(property "MPN1" "GRM0335C1E561JA01D"
+			(at 242.57 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15274,8 +15853,8 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" "N/A"
-			(at 284.48 54.61 0)
+		(property "Vendor1" "Murata Electronics"
+			(at 242.57 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15283,22 +15862,50 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" "N/A"
-			(at 284.48 54.61 0)
+		(property "Link1" "https://www.digikey.com/en/products/detail/murata-electronics/GRM0335C1E561JA01D/6624016"
+			(at 242.57 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Population" ""
+			(at 242.57 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
+			(at 242.57 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Extra" ""
+			(at 242.57 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
-			(uuid "7f9cc76b-18b5-47e3-8c3f-f645dffbb3a2")
+			(uuid "f3ef5ebf-9cb2-48c1-beea-157e2e98d8a9")
+		)
+		(pin "2"
+			(uuid "6882d116-a309-4ee0-bd08-c24726dc9c68")
 		)
 		(instances
 			(project "orleon"
 				(path "/fdfe0b94-afa6-44ad-a7e5-312f182a8626"
-					(reference "TP19")
+					(reference "C120")
 					(unit 1)
 				)
 			)
@@ -15455,7 +16062,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "RED"
+		(property "Value" "YELLOW"
 			(at 250.19 236.1564 90)
 			(effects
 				(font
@@ -15500,7 +16107,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "APG0603SYC-TT"
 			(at 247.65 234.95 0)
 			(effects
 				(font
@@ -15509,7 +16116,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/kingbright/APG0603SYC-TT/6072764"
 			(at 247.65 234.95 0)
 			(effects
 				(font
@@ -15518,7 +16125,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "APG0603SYC-TT"
 			(at 247.65 234.95 0)
 			(effects
 				(font
@@ -15543,99 +16150,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 284.48 57.15 90)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "31c64638-564f-4c80-8354-8bfb82329621")
-		(property "Reference" "TP18"
-			(at 276.86 57.15 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 281.178 60.325 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 284.48 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 284.48 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 284.48 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Link1" "N/A"
-			(at 284.48 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN1" "N/A"
-			(at 284.48 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Vendor1" "N/A"
-			(at 284.48 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "89ece104-785c-4a1a-b807-311e06e4417e")
-		)
-		(instances
-			(project "orleon"
-				(path "/fdfe0b94-afa6-44ad-a7e5-312f182a8626"
-					(reference "TP18")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:LED_Small")
 		(at 266.7 227.33 90)
 		(unit 1)
@@ -15654,7 +16168,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "RED"
+		(property "Value" "YELLOW"
 			(at 269.24 228.5364 90)
 			(effects
 				(font
@@ -15699,7 +16213,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "APG0603SYC-TT"
 			(at 266.7 227.33 0)
 			(effects
 				(font
@@ -15708,7 +16222,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/kingbright/APG0603SYC-TT/6072764"
 			(at 266.7 227.33 0)
 			(effects
 				(font
@@ -15717,7 +16231,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "APG0603SYC-TT"
 			(at 266.7 227.33 0)
 			(effects
 				(font
@@ -15861,6 +16375,42 @@
 				(hide yes)
 			)
 		)
+		(property "Link1" "https://www.digikey.com/en/products/detail/bosch-sensortec/BME280/6136306"
+			(at 88.9 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN1" "BME280"
+			(at 88.9 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor1" "Bosch Sensortec"
+			(at 88.9 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Extra" ""
+			(at 88.9 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "684ebac5-6aeb-4679-b35e-653a945f68b9")
 		)
@@ -15949,7 +16499,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "GRM0335C1E120JA01D"
 			(at 386.08 223.52 0)
 			(effects
 				(font
@@ -15958,7 +16508,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Murata Electronics"
 			(at 386.08 223.52 0)
 			(effects
 				(font
@@ -15967,7 +16517,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/murata-electronics/GRM0335C1E120JA01D/702410"
 			(at 386.08 223.52 0)
 			(effects
 				(font
@@ -16083,98 +16633,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 353.06 62.23 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "39ba7227-b55e-4544-aab4-71db56b1697e")
-		(property "Reference" "TP13"
-			(at 360.68 62.23 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 356.362 65.405 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 353.06 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 353.06 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 353.06 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Link1" "N/A"
-			(at 353.06 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN1" "N/A"
-			(at 353.06 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Vendor1" "N/A"
-			(at 353.06 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4cd136ca-5e7c-45b5-8778-1acf04d36fbd")
-		)
-		(instances
-			(project "orleon"
-				(path "/fdfe0b94-afa6-44ad-a7e5-312f182a8626"
-					(reference "TP13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:LED_Small")
 		(at 212.09 161.29 90)
 		(unit 1)
@@ -16193,7 +16651,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "RED"
+		(property "Value" "YELLOW"
 			(at 214.63 162.4964 90)
 			(effects
 				(font
@@ -16238,7 +16696,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "APG0603SYC-TT"
 			(at 212.09 161.29 0)
 			(effects
 				(font
@@ -16247,7 +16705,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/kingbright/APG0603SYC-TT/6072764"
 			(at 212.09 161.29 0)
 			(effects
 				(font
@@ -16256,7 +16714,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "APG0603SYC-TT"
 			(at 212.09 161.29 0)
 			(effects
 				(font
@@ -16275,98 +16733,6 @@
 			(project "orleon"
 				(path "/fdfe0b94-afa6-44ad-a7e5-312f182a8626"
 					(reference "D110")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 353.06 39.37 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "3dff40b7-cc06-44a9-b320-f2e3f28a2ffe")
-		(property "Reference" "TP12"
-			(at 360.68 39.37 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 356.362 42.545 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 353.06 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 353.06 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 353.06 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Link1" "N/A"
-			(at 353.06 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN1" "N/A"
-			(at 353.06 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Vendor1" "N/A"
-			(at 353.06 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ad277cca-3496-4143-95e4-04048f496d13")
-		)
-		(instances
-			(project "orleon"
-				(path "/fdfe0b94-afa6-44ad-a7e5-312f182a8626"
-					(reference "TP12")
 					(unit 1)
 				)
 			)
@@ -16425,7 +16791,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" "WR04X102 JTL"
+		(property "MPN1" "RC0201FR-071KL"
 			(at 153.67 62.23 0)
 			(effects
 				(font
@@ -16434,7 +16800,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" "Walsin Technology Corporation"
+		(property "Vendor1" "YAGEO"
 			(at 153.67 62.23 0)
 			(effects
 				(font
@@ -16443,7 +16809,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" "https://www.digikey.com/en/products/detail/walsin-technology-corporation/WR04X102-JTL/13238927"
+		(property "Link1" "https://www.digikey.com/en/products/detail/yageo/RC0201FR-071KL/3202389"
 			(at 153.67 62.23 0)
 			(effects
 				(font
@@ -16462,98 +16828,6 @@
 			(project "orleon"
 				(path "/fdfe0b94-afa6-44ad-a7e5-312f182a8626"
 					(reference "R7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 254 80.01 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "3fe94d85-17d2-4500-8ba3-e95a98f2d0f8")
-		(property "Reference" "TP10"
-			(at 246.38 80.01 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 250.698 76.835 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 254 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 254 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 254 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Link1" "N/A"
-			(at 254 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN1" "N/A"
-			(at 254 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Vendor1" "N/A"
-			(at 254 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c3f3384c-88f7-42ff-80e1-020b36bcee56")
-		)
-		(instances
-			(project "orleon"
-				(path "/fdfe0b94-afa6-44ad-a7e5-312f182a8626"
-					(reference "TP10")
 					(unit 1)
 				)
 			)
@@ -16862,7 +17136,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "GRM32EC70J107ME15K"
 			(at 78.74 114.3 0)
 			(effects
 				(font
@@ -16871,7 +17145,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/murata-electronics/GRM32EC70J107ME15K/10699053"
 			(at 78.74 114.3 0)
 			(effects
 				(font
@@ -16880,7 +17154,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Murata Electronics"
 			(at 78.74 114.3 0)
 			(effects
 				(font
@@ -17007,98 +17281,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 254 77.47 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "4986817a-752e-4dbf-bfe1-ba322425047a")
-		(property "Reference" "TP9"
-			(at 246.38 77.47 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 250.698 74.295 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 254 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 254 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 254 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Link1" "N/A"
-			(at 254 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN1" "N/A"
-			(at 254 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Vendor1" "N/A"
-			(at 254 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "da1e9e9f-6a15-4494-b908-cc59beea4277")
-		)
-		(instances
-			(project "orleon"
-				(path "/fdfe0b94-afa6-44ad-a7e5-312f182a8626"
-					(reference "TP9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 266.7 240.03 0)
 		(unit 1)
@@ -17171,7 +17353,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "4bf8e31c-a493-4807-89b1-35bb8029df55")
 		(property "Reference" "U101"
@@ -17190,7 +17372,7 @@
 				)
 			)
 		)
-		(property "Footprint" "orleon:BGA94C35P10X10_360X354X51N"
+		(property "Footprint" "orleon:BGA_0.25mm_94C35P10X10_360X354X51N"
 			(at 349.25 129.54 0)
 			(effects
 				(font
@@ -17258,7 +17440,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "NRF52840-CKAA-F-R"
 			(at 349.25 129.54 0)
 			(effects
 				(font
@@ -17267,7 +17449,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/nordic-semiconductor-asa/nrf52840-ckaa-f-r/15929808"
 			(at 349.25 129.54 0)
 			(effects
 				(font
@@ -17276,13 +17458,21 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Nordic Semiconductor ASA"
 			(at 349.25 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Extra" ""
+			(at 349.25 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "F5"
@@ -17630,7 +17820,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "0402ZD105KAT2A"
 			(at 309.88 135.89 0)
 			(effects
 				(font
@@ -17639,7 +17829,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "KYOCERA AVX"
 			(at 309.88 135.89 0)
 			(effects
 				(font
@@ -17648,7 +17838,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/kyocera-avx/0402ZD105KAT2A/1545026"
 			(at 309.88 135.89 0)
 			(effects
 				(font
@@ -17818,7 +18008,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "MP34DT05TR-A"
 			(at 127 238.76 0)
 			(effects
 				(font
@@ -17827,7 +18017,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/stmicroelectronics/MP34DT05TR-A/7385251"
 			(at 127 238.76 0)
 			(effects
 				(font
@@ -17836,13 +18026,21 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "STMIcroelectronics"
 			(at 127 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Extra" ""
+			(at 127 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "3"
@@ -17988,7 +18186,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0201ZT0R00/1756897"
 			(at 64.77 39.37 0)
 			(effects
 				(font
@@ -17997,7 +18195,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "RMCF0201ZT0R00"
 			(at 64.77 39.37 0)
 			(effects
 				(font
@@ -18006,7 +18204,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Stackpole Electronics Inc"
 			(at 64.77 39.37 0)
 			(effects
 				(font
@@ -18090,7 +18288,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/vishay-dale/CRCW0201100KFNED/1183619"
 			(at -74.93 234.95 0)
 			(effects
 				(font
@@ -18099,7 +18297,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "CRCW0201100KFNED"
 			(at -74.93 234.95 0)
 			(effects
 				(font
@@ -18108,7 +18306,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Vishay Dale"
 			(at -74.93 234.95 0)
 			(effects
 				(font
@@ -18135,127 +18333,6 @@
 			(project "orleon"
 				(path "/fdfe0b94-afa6-44ad-a7e5-312f182a8626"
 					(reference "R115")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 322.58 140.97 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp yes)
-		(uuid "57f104ae-2568-4cbb-9c8f-afa957658a3d")
-		(property "Reference" "C109"
-			(at 325.12 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "820P"
-			(at 325.12 142.875 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
-			(at 322.58 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 322.58 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 322.58 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN1" ""
-			(at 322.58 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Vendor1" ""
-			(at 322.58 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Link1" ""
-			(at 322.58 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Population" ""
-			(at 322.58 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Voltage" ""
-			(at 322.58 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Extra" ""
-			(at 322.58 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "b671af15-a7df-41fc-ad22-07fe04a36ff8")
-		)
-		(pin "2"
-			(uuid "a7c572a0-7d9b-47bc-8a2a-755e6813d4b5")
-		)
-		(instances
-			(project "orleon"
-				(path "/fdfe0b94-afa6-44ad-a7e5-312f182a8626"
-					(reference "C109")
 					(unit 1)
 				)
 			)
@@ -18345,7 +18422,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "RED"
+		(property "Value" "YELLOW"
 			(at 199.39 184.0864 90)
 			(effects
 				(font
@@ -18390,7 +18467,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "APG0603SYC-TT"
 			(at 196.85 182.88 0)
 			(effects
 				(font
@@ -18399,7 +18476,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/kingbright/APG0603SYC-TT/6072764"
 			(at 196.85 182.88 0)
 			(effects
 				(font
@@ -18408,7 +18485,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "APG0603SYC-TT"
 			(at 196.85 182.88 0)
 			(effects
 				(font
@@ -18439,7 +18516,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "593ef067-2acd-414d-ad91-94521c998ed9")
 		(property "Reference" "TP14"
 			(at 276.86 62.23 90)
@@ -18543,7 +18620,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_Small"
+		(property "Value" "1K"
 			(at 281.94 173.9899 0)
 			(effects
 				(font
@@ -18579,7 +18656,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "RC0201FR-071KL"
 			(at 279.4 172.72 0)
 			(effects
 				(font
@@ -18588,7 +18665,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/yageo/RC0201FR-071KL/3202389"
 			(at 279.4 172.72 0)
 			(effects
 				(font
@@ -18597,7 +18674,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "YAGEO"
 			(at 279.4 172.72 0)
 			(effects
 				(font
@@ -18629,7 +18706,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "5c40287a-bdac-4d1c-ab79-0198c5265ad0")
 		(property "Reference" "BT101"
@@ -18676,7 +18753,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "CR-2032L/F1N"
 			(at 41.91 107.95 0)
 			(effects
 				(font
@@ -18685,7 +18762,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/panasonic-energy/CR-2032L-F1N/2415266?s=N4IgTCBcDaIMICUC0YAMBmMAZA9AMQEYA5EAXQF8g"
 			(at 41.91 107.95 0)
 			(effects
 				(font
@@ -18694,13 +18771,21 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Panasonic - BSG"
 			(at 41.91 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Extra" ""
+			(at 41.91 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "N"
@@ -18772,7 +18857,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "CL03A104KP3NNNC"
 			(at 382.27 137.16 0)
 			(effects
 				(font
@@ -18781,7 +18866,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Samsung Electro-Mechanics"
 			(at 382.27 137.16 0)
 			(effects
 				(font
@@ -18790,7 +18875,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL03A104KP3NNNC/3886773"
 			(at 382.27 137.16 0)
 			(effects
 				(font
@@ -18891,6 +18976,35 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Link1" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL03A104KP3NNNC/3886773"
+			(at 412.75 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN1" "CL03A104KP3NNNC"
+			(at 415.29 139.7062 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Vendor1" "Samsung Electro-Mechanics"
+			(at 415.29 140.9762 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -19095,7 +19209,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "GRM0335C1E120JA01D"
 			(at 266.7 24.13 0)
 			(effects
 				(font
@@ -19104,7 +19218,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Murata Electronics"
 			(at 266.7 24.13 0)
 			(effects
 				(font
@@ -19113,7 +19227,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/murata-electronics/GRM0335C1E120JA01D/702410"
 			(at 266.7 24.13 0)
 			(effects
 				(font
@@ -19229,6 +19343,98 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 355.6 62.23 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp yes)
+		(uuid "6e1c1d5c-ced4-4515-9d45-aa50a33ff4cd")
+		(property "Reference" "TP20"
+			(at 363.22 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 358.902 65.405 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 355.6 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 355.6 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 355.6 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link1" "N/A"
+			(at 355.6 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN1" "N/A"
+			(at 355.6 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor1" "N/A"
+			(at 355.6 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "84b428c2-a9d9-40b3-bbd8-01d5a5b4ac86")
+		)
+		(instances
+			(project "orleon"
+				(path "/fdfe0b94-afa6-44ad-a7e5-312f182a8626"
+					(reference "TP20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:L_Small")
 		(at 370.84 26.67 90)
 		(unit 1)
@@ -19281,7 +19487,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "LQP03TN4N7H02D"
 			(at 370.84 26.67 0)
 			(effects
 				(font
@@ -19290,7 +19496,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/murata-electronics/LQP03TN4N7H02D/4358101"
 			(at 370.84 26.67 0)
 			(effects
 				(font
@@ -19299,7 +19505,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Murata Electronics"
 			(at 370.84 26.67 0)
 			(effects
 				(font
@@ -19464,6 +19670,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 242.57 36.83 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "725f0b0a-25c2-493a-8bc4-c4602b5186ad")
+		(property "Reference" "#PWR0135"
+			(at 242.57 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 242.57 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 242.57 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 242.57 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 242.57 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "21c8934b-b729-4861-9080-ee931d62b310")
+		)
+		(instances
+			(project "orleon"
+				(path "/fdfe0b94-afa6-44ad-a7e5-312f182a8626"
+					(reference "#PWR0135")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "orleon:LF21115TMR")
 		(at 35.56 172.72 0)
 		(unit 1)
@@ -19555,98 +19826,6 @@
 			(project ""
 				(path "/fdfe0b94-afa6-44ad-a7e5-312f182a8626"
 					(reference "U104")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 284.48 44.45 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "74b70b2c-c200-4009-9ca8-0d0d5133c5d9")
-		(property "Reference" "TP16"
-			(at 276.606 45.212 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 281.178 41.275 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 284.48 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 284.48 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 284.48 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Link1" "N/A"
-			(at 284.48 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN1" "N/A"
-			(at 284.48 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Vendor1" "N/A"
-			(at 284.48 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f91e55c3-a020-404a-8a57-f3ffe2339501")
-		)
-		(instances
-			(project "orleon"
-				(path "/fdfe0b94-afa6-44ad-a7e5-312f182a8626"
-					(reference "TP16")
 					(unit 1)
 				)
 			)
@@ -19773,7 +19952,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "CL03A104KP3NNNC"
 			(at 299.72 135.89 0)
 			(effects
 				(font
@@ -19782,7 +19961,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Samsung Electro-Mechanics"
 			(at 299.72 135.89 0)
 			(effects
 				(font
@@ -19791,7 +19970,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL03A104KP3NNNC/3886773"
 			(at 299.72 135.89 0)
 			(effects
 				(font
@@ -20075,33 +20254,35 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 254 82.55 90)
+		(lib_id "Device:R_Small")
+		(at 176.53 97.79 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
-		(uuid "7fcb17b3-ef81-4127-9ce9-60e633624914")
-		(property "Reference" "TP11"
-			(at 246.38 82.55 90)
+		(dnp yes)
+		(fields_autoplaced yes)
+		(uuid "7fb2ef1c-1418-4aa3-b89c-83fa4151ea91")
+		(property "Reference" "R117"
+			(at 179.07 96.5199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Value" "TestPoint"
-			(at 250.698 79.375 90)
+		(property "Value" "4K7"
+			(at 179.07 99.0599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
+				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 254 77.47 0)
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+			(at 176.53 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20110,7 +20291,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 254 77.47 0)
+			(at 176.53 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20118,8 +20299,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 254 82.55 0)
+		(property "Description" "Resistor, small symbol"
+			(at 176.53 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20127,8 +20308,8 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" "N/A"
-			(at 254 82.55 0)
+		(property "MPN1" "RC0201FR-074K7L"
+			(at 176.53 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20136,8 +20317,8 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" "N/A"
-			(at 254 82.55 0)
+		(property "Link1" "https://www.digikey.com/en/products/detail/yageo/RC0201FR-074K7L/1948894?s=N4IgTCBcDaIEoGEAMYkEYBicC0SDsALANJ4AyIAugL5A"
+			(at 176.53 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20145,22 +20326,33 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" "N/A"
-			(at 254 82.55 0)
+		(property "Vendor1" "https://www.digikey.com/en/products/detail/yageo/RC0201FR-074K7L/1948894?s=N4IgTCBcDaIEoGEAMYkEYBicC0SDsALANJ4AyIAugL5A"
+			(at 176.53 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Extra" ""
+			(at 176.53 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
-			(uuid "1675e13d-6736-47e4-9820-23662405e1a8")
+			(uuid "596c5815-a7a4-4a2f-b6ee-9dce4a7b7b47")
+		)
+		(pin "2"
+			(uuid "8b803232-4d2a-4638-84a1-f02bbf152694")
 		)
 		(instances
 			(project "orleon"
 				(path "/fdfe0b94-afa6-44ad-a7e5-312f182a8626"
-					(reference "TP11")
+					(reference "R117")
 					(unit 1)
 				)
 			)
@@ -20185,7 +20377,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_Small"
+		(property "Value" "1K"
 			(at 214.63 170.1799 0)
 			(effects
 				(font
@@ -20221,7 +20413,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "RC0201FR-071KL"
 			(at 212.09 168.91 0)
 			(effects
 				(font
@@ -20230,7 +20422,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/yageo/RC0201FR-071KL/3202389"
 			(at 212.09 168.91 0)
 			(effects
 				(font
@@ -20239,7 +20431,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "YAGEO"
 			(at 212.09 168.91 0)
 			(effects
 				(font
@@ -20315,7 +20507,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "RT0201DRD071KL"
 			(at 365.76 85.09 0)
 			(effects
 				(font
@@ -20324,7 +20516,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/yageo/RT0201DRD071KL/5925536"
 			(at 365.76 85.09 0)
 			(effects
 				(font
@@ -20333,7 +20525,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "YAGEO"
 			(at 365.76 85.09 0)
 			(effects
 				(font
@@ -20384,7 +20576,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_Small"
+		(property "Value" "1K"
 			(at 229.87 236.2199 0)
 			(effects
 				(font
@@ -20420,7 +20612,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "RC0201FR-071KL"
 			(at 227.33 234.95 0)
 			(effects
 				(font
@@ -20429,7 +20621,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/yageo/RC0201FR-071KL/3202389"
 			(at 227.33 234.95 0)
 			(effects
 				(font
@@ -20438,7 +20630,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "YAGEO"
 			(at 227.33 234.95 0)
 			(effects
 				(font
@@ -20481,7 +20673,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "RED"
+		(property "Value" "YELLOW"
 			(at 247.65 148.5264 90)
 			(effects
 				(font
@@ -20526,7 +20718,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "APG0603SYC-TT"
 			(at 245.11 147.32 0)
 			(effects
 				(font
@@ -20535,7 +20727,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/kingbright/APG0603SYC-TT/6072764"
 			(at 245.11 147.32 0)
 			(effects
 				(font
@@ -20544,7 +20736,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "APG0603SYC-TT"
 			(at 245.11 147.32 0)
 			(effects
 				(font
@@ -20587,7 +20779,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_Small"
+		(property "Value" "1K"
 			(at 293.37 193.0399 0)
 			(effects
 				(font
@@ -20623,7 +20815,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "RC0201FR-071KL"
 			(at 290.83 191.77 0)
 			(effects
 				(font
@@ -20632,7 +20824,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/yageo/RC0201FR-071KL/3202389"
 			(at 290.83 191.77 0)
 			(effects
 				(font
@@ -20641,7 +20833,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "YAGEO"
 			(at 290.83 191.77 0)
 			(effects
 				(font
@@ -20666,6 +20858,219 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Small")
+		(at 101.6 149.86 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8a05108a-348e-4806-98cc-8a85808bc892")
+		(property "Reference" "C118"
+			(at 104.14 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1U"
+			(at 104.14 151.765 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+			(at 101.6 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 101.6 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 101.6 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN1" "CL03A104KP3NNNC"
+			(at 101.6 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor1" "Samsung Electro-Mechanics"
+			(at 101.6 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link1" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL03A104KP3NNNC/3886773"
+			(at 101.6 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Population" ""
+			(at 101.6 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
+			(at 101.6 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Extra" ""
+			(at 101.6 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "8ae9b3f9-c6ea-4002-86b0-26085433af93")
+		)
+		(pin "2"
+			(uuid "7939ef05-c1c2-4226-80d5-677b3bfa0ca6")
+		)
+		(instances
+			(project "orleon"
+				(path "/fdfe0b94-afa6-44ad-a7e5-312f182a8626"
+					(reference "C118")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 353.06 39.37 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp yes)
+		(uuid "8b26fb3f-1373-4016-b46d-8105943d945d")
+		(property "Reference" "TP19"
+			(at 360.68 39.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 356.362 42.545 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 353.06 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 353.06 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 353.06 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link1" "N/A"
+			(at 353.06 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN1" "N/A"
+			(at 353.06 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor1" "N/A"
+			(at 353.06 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c04f6136-ec1f-49e8-af48-76ed8759d8de")
+		)
+		(instances
+			(project "orleon"
+				(path "/fdfe0b94-afa6-44ad-a7e5-312f182a8626"
+					(reference "TP19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Small")
 		(at 280.67 218.44 0)
 		(unit 1)
@@ -20684,7 +21089,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_Small"
+		(property "Value" "1K"
 			(at 283.21 219.7099 0)
 			(effects
 				(font
@@ -20720,7 +21125,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "RC0201FR-071KL"
 			(at 280.67 218.44 0)
 			(effects
 				(font
@@ -20729,7 +21134,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/yageo/RC0201FR-071KL/3202389"
 			(at 280.67 218.44 0)
 			(effects
 				(font
@@ -20738,7 +21143,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "YAGEO"
 			(at 280.67 218.44 0)
 			(effects
 				(font
@@ -20764,7 +21169,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 90.17 194.31 0)
+		(at 91.44 194.31 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20773,7 +21178,7 @@
 		(fields_autoplaced yes)
 		(uuid "8d3e1e79-35d2-4a0d-a762-4a4cf09c50b3")
 		(property "Reference" "#PWR0110"
-			(at 90.17 200.66 0)
+			(at 91.44 200.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20782,7 +21187,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 90.17 199.39 0)
+			(at 91.44 199.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20790,7 +21195,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 90.17 194.31 0)
+			(at 91.44 194.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20799,7 +21204,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 90.17 194.31 0)
+			(at 91.44 194.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20808,7 +21213,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 90.17 194.31 0)
+			(at 91.44 194.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21014,7 +21419,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "CL21A106KOQNNNG"
 			(at -19.05 231.14 0)
 			(effects
 				(font
@@ -21023,7 +21428,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Samsung Electro-Mechanics"
 			(at -19.05 231.14 0)
 			(effects
 				(font
@@ -21032,7 +21437,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21A106KOQNNNG/3894417"
 			(at -19.05 231.14 0)
 			(effects
 				(font
@@ -21166,7 +21571,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_Small"
+		(property "Value" "1K"
 			(at 250.19 243.8399 0)
 			(effects
 				(font
@@ -21202,7 +21607,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "RC0201FR-071KL"
 			(at 247.65 242.57 0)
 			(effects
 				(font
@@ -21211,7 +21616,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/yageo/RC0201FR-071KL/3202389"
 			(at 247.65 242.57 0)
 			(effects
 				(font
@@ -21220,7 +21625,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "YAGEO"
 			(at 247.65 242.57 0)
 			(effects
 				(font
@@ -21329,7 +21734,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "RED"
+		(property "Value" "YELLOW"
 			(at 281.94 166.3064 90)
 			(effects
 				(font
@@ -21374,7 +21779,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "APG0603SYC-TT"
 			(at 279.4 165.1 0)
 			(effects
 				(font
@@ -21383,7 +21788,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/kingbright/APG0603SYC-TT/6072764"
 			(at 279.4 165.1 0)
 			(effects
 				(font
@@ -21392,7 +21797,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "APG0603SYC-TT"
 			(at 279.4 165.1 0)
 			(effects
 				(font
@@ -21471,7 +21876,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "GRM0335C1E120JA01D"
 			(at 364.49 30.48 0)
 			(effects
 				(font
@@ -21480,7 +21885,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Murata Electronics"
 			(at 364.49 30.48 0)
 			(effects
 				(font
@@ -21489,7 +21894,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/murata-electronics/GRM0335C1E120JA01D/702410"
 			(at 364.49 30.48 0)
 			(effects
 				(font
@@ -21557,7 +21962,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "RED"
+		(property "Value" "YELLOW"
 			(at 229.87 228.5364 90)
 			(effects
 				(font
@@ -21602,7 +22007,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "APG0603SYC-TT"
 			(at 227.33 227.33 0)
 			(effects
 				(font
@@ -21611,7 +22016,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/kingbright/APG0603SYC-TT/6072764"
 			(at 227.33 227.33 0)
 			(effects
 				(font
@@ -21620,7 +22025,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "APG0603SYC-TT"
 			(at 227.33 227.33 0)
 			(effects
 				(font
@@ -21717,7 +22122,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "a14285f8-fdc3-4700-8b10-74b443dccf6d")
 		(property "Reference" "TP7"
 			(at 87.63 39.37 90)
@@ -21902,6 +22307,14 @@
 				(hide yes)
 			)
 		)
+		(property "Extra" ""
+			(at 184.15 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "N"
 			(uuid "3c1d64ee-9682-425c-b7f2-73a465dc9dfe")
 		)
@@ -21971,7 +22384,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10A475KP8NNNC/3886702"
 			(at 151.13 35.56 0)
 			(effects
 				(font
@@ -21980,7 +22393,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "CL10A475KP8NNNC"
 			(at 151.13 35.56 0)
 			(effects
 				(font
@@ -21989,7 +22402,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Samsung Electro-Mechanics"
 			(at 151.13 35.56 0)
 			(effects
 				(font
@@ -22091,6 +22504,73 @@
 			(project "orleon"
 				(path "/fdfe0b94-afa6-44ad-a7e5-312f182a8626"
 					(reference "#PWR0123")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 115.57 166.37 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ac37e575-046f-4da6-8c81-d22e312e9b80")
+		(property "Reference" "#PWR0132"
+			(at 121.92 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 119.38 166.3699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 115.57 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 115.57 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 115.57 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ba096b53-fabc-4fac-8164-339cfa1fb817")
+		)
+		(instances
+			(project "orleon"
+				(path "/fdfe0b94-afa6-44ad-a7e5-312f182a8626"
+					(reference "#PWR0132")
 					(unit 1)
 				)
 			)
@@ -22247,7 +22727,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "RED"
+		(property "Value" "YELLOW"
 			(at 209.55 209.4864 90)
 			(effects
 				(font
@@ -22292,7 +22772,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "APG0603SYC-TT"
 			(at 207.01 208.28 0)
 			(effects
 				(font
@@ -22301,7 +22781,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/kingbright/APG0603SYC-TT/6072764"
 			(at 207.01 208.28 0)
 			(effects
 				(font
@@ -22310,7 +22790,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "APG0603SYC-TT"
 			(at 207.01 208.28 0)
 			(effects
 				(font
@@ -22521,7 +23001,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "WLA.04"
 			(at 370.84 26.67 0)
 			(effects
 				(font
@@ -22530,7 +23010,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/taoglas-limited/wla-04/21777663"
 			(at 370.84 26.67 0)
 			(effects
 				(font
@@ -22539,7 +23019,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Taoglas Limited"
 			(at 370.84 26.67 0)
 			(effects
 				(font
@@ -22575,6 +23055,98 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 284.48 54.61 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp yes)
+		(uuid "b6908009-4c4f-4e64-bbc4-7aa90130f1cc")
+		(property "Reference" "TP17"
+			(at 276.86 54.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 281.178 51.435 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 284.48 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 284.48 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 284.48 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link1" "N/A"
+			(at 284.48 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN1" "N/A"
+			(at 284.48 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor1" "N/A"
+			(at 284.48 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "70876e29-0f1c-425b-8757-df1a1e786c15")
+		)
+		(instances
+			(project "orleon"
+				(path "/fdfe0b94-afa6-44ad-a7e5-312f182a8626"
+					(reference "TP17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:CK_KMS2xxG")
 		(at 33.02 246.38 0)
 		(unit 1)
@@ -22590,6 +23162,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "CK_KMS2xxG"
@@ -22598,6 +23171,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Button_Switch_SMD:SW_SPST_CK_KMS2xxGP"
@@ -22619,6 +23193,42 @@
 			)
 		)
 		(property "Description" "Microminiature SMT Side Actuated, 4.2 x 2.8 x 1.42mm, without pegs, with shield pin"
+			(at 33.02 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link1" "https://www.digikey.com/en/products/detail/c-k/KMS231GP-LFS/679930"
+			(at 33.02 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN1" "KMS231GP LFS"
+			(at 33.02 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor1" "C&K"
+			(at 33.02 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Extra" ""
 			(at 33.02 246.38 0)
 			(effects
 				(font
@@ -22730,7 +23340,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "RED"
+		(property "Value" "YELLOW"
 			(at 231.14 151.0664 90)
 			(effects
 				(font
@@ -22775,7 +23385,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "APG0603SYC-TT"
 			(at 228.6 149.86 0)
 			(effects
 				(font
@@ -22784,7 +23394,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/kingbright/APG0603SYC-TT/6072764"
 			(at 228.6 149.86 0)
 			(effects
 				(font
@@ -22793,7 +23403,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "APG0603SYC-TT"
 			(at 228.6 149.86 0)
 			(effects
 				(font
@@ -22870,6 +23480,42 @@
 				(hide yes)
 			)
 		)
+		(property "Link1" "https://www.digikey.com/en/products/detail/c-k/KMS231GP-LFS/679930"
+			(at 74.93 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN1" "KMS231GP LFS"
+			(at 74.93 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor1" "C&K"
+			(at 74.93 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Extra" ""
+			(at 74.93 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c8b2589e-c08c-4005-a748-4aa0998c0500")
 		)
@@ -22907,7 +23553,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_Small"
+		(property "Value" "1K"
 			(at 269.24 236.2199 0)
 			(effects
 				(font
@@ -22943,7 +23589,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "RC0201FR-071KL"
 			(at 266.7 234.95 0)
 			(effects
 				(font
@@ -22952,7 +23598,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/yageo/RC0201FR-071KL/3202389"
 			(at 266.7 234.95 0)
 			(effects
 				(font
@@ -22961,7 +23607,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "YAGEO"
 			(at 266.7 234.95 0)
 			(effects
 				(font
@@ -23032,6 +23678,42 @@
 			)
 		)
 		(property "Description" "Cryptographic Co-Processor with Secure Hardware-based 16 Key Storage, ECDSA and ECDH support, I2C, UDFN-8"
+			(at 156.21 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link1" "https://www.digikey.com/en/products/detail/microchip-technology/ATECC608B-MAHDA-T/13415239"
+			(at 156.21 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN1" "ATECC608B-MAHDA-T"
+			(at 156.21 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor1" "Microchip Technology"
+			(at 156.21 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Extra" ""
 			(at 156.21 105.41 0)
 			(effects
 				(font
@@ -23130,7 +23812,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "CL10A475KP8NNNC"
 			(at 392.43 137.16 0)
 			(effects
 				(font
@@ -23139,7 +23821,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Samsung Electro-Mechanics"
 			(at 392.43 137.16 0)
 			(effects
 				(font
@@ -23148,7 +23830,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10A475KP8NNNC/3886702"
 			(at 392.43 137.16 0)
 			(effects
 				(font
@@ -23198,6 +23880,111 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_Small")
+		(at 167.64 97.79 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp yes)
+		(fields_autoplaced yes)
+		(uuid "c5cde01e-76bc-444f-bd66-6200bce5b051")
+		(property "Reference" "R118"
+			(at 170.18 96.5199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "4K7"
+			(at 170.18 99.0599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+			(at 167.64 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 167.64 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 167.64 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN1" "RC0201FR-074K7L"
+			(at 167.64 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link1" "https://www.digikey.com/en/products/detail/yageo/RC0201FR-074K7L/1948894?s=N4IgTCBcDaIEoGEAMYkEYBicC0SDsALANJ4AyIAugL5A"
+			(at 167.64 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor1" "https://www.digikey.com/en/products/detail/yageo/RC0201FR-074K7L/1948894?s=N4IgTCBcDaIEoGEAMYkEYBicC0SDsALANJ4AyIAugL5A"
+			(at 167.64 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Extra" ""
+			(at 167.64 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "71a3b0b1-1637-4878-b5ee-6aac70a65ecd")
+		)
+		(pin "2"
+			(uuid "33175c25-69cc-4d07-baf8-3c3095a9e2a2")
+		)
+		(instances
+			(project "orleon"
+				(path "/fdfe0b94-afa6-44ad-a7e5-312f182a8626"
+					(reference "R118")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:LED_Small")
 		(at 280.67 210.82 90)
 		(unit 1)
@@ -23216,7 +24003,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "RED"
+		(property "Value" "YELLOW"
 			(at 283.21 212.0264 90)
 			(effects
 				(font
@@ -23261,7 +24048,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "APG0603SYC-TT"
 			(at 280.67 210.82 0)
 			(effects
 				(font
@@ -23270,7 +24057,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/kingbright/APG0603SYC-TT/6072764"
 			(at 280.67 210.82 0)
 			(effects
 				(font
@@ -23279,7 +24066,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "APG0603SYC-TT"
 			(at 280.67 210.82 0)
 			(effects
 				(font
@@ -23355,7 +24142,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0201ZT0R00/1756897"
 			(at -72.39 275.59 0)
 			(effects
 				(font
@@ -23364,7 +24151,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "RMCF0201ZT0R00"
 			(at -72.39 275.59 0)
 			(effects
 				(font
@@ -23373,7 +24160,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Stackpole Electronics Inc"
 			(at -72.39 275.59 0)
 			(effects
 				(font
@@ -23417,6 +24204,98 @@
 			(project "orleon"
 				(path "/fdfe0b94-afa6-44ad-a7e5-312f182a8626"
 					(reference "R4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 284.48 44.45 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp yes)
+		(uuid "cab5a3fe-d0fa-4fa0-9050-4fee8a678319")
+		(property "Reference" "TP18"
+			(at 276.86 44.45 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 281.178 41.275 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 284.48 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 284.48 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 284.48 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link1" "N/A"
+			(at 284.48 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN1" "N/A"
+			(at 284.48 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor1" "N/A"
+			(at 284.48 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e79cb004-eaf8-48d6-a329-ceb4e16764ed")
+		)
+		(instances
+			(project "orleon"
+				(path "/fdfe0b94-afa6-44ad-a7e5-312f182a8626"
+					(reference "TP18")
 					(unit 1)
 				)
 			)
@@ -23542,7 +24421,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "CL03A104KP3NNNC"
 			(at 402.59 137.16 0)
 			(effects
 				(font
@@ -23551,7 +24430,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Samsung Electro-Mechanics"
 			(at 402.59 137.16 0)
 			(effects
 				(font
@@ -23560,7 +24439,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL03A104KP3NNNC/3886773"
 			(at 402.59 137.16 0)
 			(effects
 				(font
@@ -23628,7 +24507,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_Small"
+		(property "Value" "1K"
 			(at 231.14 158.7499 0)
 			(effects
 				(font
@@ -23664,7 +24543,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "RC0201FR-071KL"
 			(at 228.6 157.48 0)
 			(effects
 				(font
@@ -23673,7 +24552,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/yageo/RC0201FR-071KL/3202389"
 			(at 228.6 157.48 0)
 			(effects
 				(font
@@ -23682,7 +24561,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "YAGEO"
 			(at 228.6 157.48 0)
 			(effects
 				(font
@@ -23725,7 +24604,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_Small"
+		(property "Value" "1K"
 			(at 199.39 191.7699 0)
 			(effects
 				(font
@@ -23761,7 +24640,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "RC0201FR-071KL"
 			(at 196.85 190.5 0)
 			(effects
 				(font
@@ -23770,7 +24649,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/yageo/RC0201FR-071KL/3202389"
 			(at 196.85 190.5 0)
 			(effects
 				(font
@@ -23779,7 +24658,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "YAGEO"
 			(at 196.85 190.5 0)
 			(effects
 				(font
@@ -23805,7 +24684,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Pin")
-		(at 245.11 49.53 0)
+		(at 220.98 49.53 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -23814,7 +24693,7 @@
 		(fields_autoplaced yes)
 		(uuid "cfda84e3-d46d-4f88-a772-6d3188a1d545")
 		(property "Reference" "FXC.24.A101"
-			(at 245.745 44.45 0)
+			(at 221.615 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23822,7 +24701,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02_Pin"
-			(at 245.745 46.99 0)
+			(at 221.615 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23830,7 +24709,7 @@
 			)
 		)
 		(property "Footprint" "orleon:FXC.24.A"
-			(at 245.11 49.53 0)
+			(at 220.98 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23839,7 +24718,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.taoglas.com/datasheets/FXC.24.52.0075X.A.dg.pdf"
-			(at 245.11 49.53 0)
+			(at 220.98 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23848,7 +24727,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 245.11 49.53 0)
+			(at 220.98 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23857,7 +24736,7 @@
 			)
 		)
 		(property "MPN1" "FXC.24.A.dg"
-			(at 245.11 49.53 0)
+			(at 220.98 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23866,7 +24745,7 @@
 			)
 		)
 		(property "Link1" "https://www.mouser.com/ProductDetail/Taoglas/FXC.24.A.dg?qs=Jm2GQyTW%2FbirGlfsAbnafA%3D%3D"
-			(at 245.11 49.53 0)
+			(at 220.98 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23875,7 +24754,7 @@
 			)
 		)
 		(property "Vendor1" "Taoglass"
-			(at 245.11 49.53 0)
+			(at 220.98 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23917,7 +24796,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "RED"
+		(property "Value" "YELLOW"
 			(at 265.43 151.0664 90)
 			(effects
 				(font
@@ -23962,7 +24841,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "APG0603SYC-TT"
 			(at 262.89 149.86 0)
 			(effects
 				(font
@@ -23971,7 +24850,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/kingbright/APG0603SYC-TT/6072764"
 			(at 262.89 149.86 0)
 			(effects
 				(font
@@ -23980,7 +24859,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "APG0603SYC-TT"
 			(at 262.89 149.86 0)
 			(effects
 				(font
@@ -24077,7 +24956,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "d7080cd2-7b47-4816-9ac3-73560db38471")
 		(property "Reference" "J103"
@@ -24125,7 +25004,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "N/A"
 			(at 46.99 46.99 0)
 			(effects
 				(font
@@ -24134,7 +25013,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "N/A"
 			(at 46.99 46.99 0)
 			(effects
 				(font
@@ -24143,7 +25022,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "N/A"
 			(at 46.99 46.99 0)
 			(effects
 				(font
@@ -24209,7 +25088,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "d7093525-7687-4d9a-8695-2e93a6014aa9")
 		(property "Reference" "TP5"
 			(at 87.63 46.99 90)
@@ -24347,7 +25226,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "LQP03TN3N9B02D"
 			(at 356.87 26.67 0)
 			(effects
 				(font
@@ -24356,7 +25235,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/murata-electronics/LQP03TN3N9B02D/2391748"
 			(at 356.87 26.67 0)
 			(effects
 				(font
@@ -24365,7 +25244,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Murata Electronics"
 			(at 356.87 26.67 0)
 			(effects
 				(font
@@ -24481,7 +25360,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_Small"
+		(property "Value" "1K"
 			(at 265.43 158.7499 0)
 			(effects
 				(font
@@ -24517,7 +25396,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "RC0201FR-071KL"
 			(at 262.89 157.48 0)
 			(effects
 				(font
@@ -24526,7 +25405,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/yageo/RC0201FR-071KL/3202389"
 			(at 262.89 157.48 0)
 			(effects
 				(font
@@ -24535,7 +25414,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "YAGEO"
 			(at 262.89 157.48 0)
 			(effects
 				(font
@@ -24626,6 +25505,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 101.6 153.67 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e05aeba3-a215-4381-80c2-23e457455133")
+		(property "Reference" "#PWR0133"
+			(at 101.6 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 101.6 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 101.6 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 101.6 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 101.6 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a6f822e8-c082-47b7-acf8-2ae1751b5c20")
+		)
+		(instances
+			(project "orleon"
+				(path "/fdfe0b94-afa6-44ad-a7e5-312f182a8626"
+					(reference "#PWR0133")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 115.57 243.84 0)
 		(unit 1)
@@ -24679,7 +25624,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "0402ZD105KAT2A"
 			(at 115.57 243.84 0)
 			(effects
 				(font
@@ -24688,7 +25633,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "KYOCERA AVX"
 			(at 115.57 243.84 0)
 			(effects
 				(font
@@ -24697,7 +25642,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/kyocera-avx/0402ZD105KAT2A/1545026"
 			(at 115.57 243.84 0)
 			(effects
 				(font
@@ -24747,13 +25692,78 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 242.57 64.77 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e3632614-138f-4f46-ab61-7b24699cf435")
+		(property "Reference" "#PWR0134"
+			(at 242.57 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 242.57 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 242.57 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 242.57 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 242.57 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d7888386-386e-4c04-a10e-feb458c4bae6")
+		)
+		(instances
+			(project "orleon"
+				(path "/fdfe0b94-afa6-44ad-a7e5-312f182a8626"
+					(reference "#PWR0134")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "NRF52840-CKAA-F-R:NRF52840-CKAA-F-R")
 		(at 318.77 59.69 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "e467a994-53eb-4f09-9f31-a4c1857c9ab7")
 		(property "Reference" "U101"
@@ -24772,7 +25782,7 @@
 				)
 			)
 		)
-		(property "Footprint" "orleon:BGA94C35P10X10_360X354X51N"
+		(property "Footprint" "orleon:BGA_0.25mm_94C35P10X10_360X354X51N"
 			(at 318.77 59.69 0)
 			(effects
 				(font
@@ -24840,7 +25850,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "NRF52840-CKAA-F-R"
 			(at 318.77 59.69 0)
 			(effects
 				(font
@@ -24849,7 +25859,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/nordic-semiconductor-asa/nrf52840-ckaa-f-r/15929808"
 			(at 318.77 59.69 0)
 			(effects
 				(font
@@ -24858,13 +25868,21 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Nordic Semiconductor ASA"
 			(at 318.77 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Extra" ""
+			(at 318.77 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "F5"
@@ -25361,7 +26379,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "RMCF0603ZT0R00"
 			(at 69.85 107.95 0)
 			(effects
 				(font
@@ -25370,7 +26388,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0603ZT0R00/1756908"
 			(at 69.85 107.95 0)
 			(effects
 				(font
@@ -25379,7 +26397,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Stackpole Electronics Inc"
 			(at 69.85 107.95 0)
 			(effects
 				(font
@@ -25413,104 +26431,12 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 254 74.93 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "eb7d0258-bbfe-4cec-8f58-0ae336e83689")
-		(property "Reference" "TP8"
-			(at 246.38 74.93 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 250.698 71.755 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 254 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 254 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 254 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Link1" "N/A"
-			(at 254 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN1" "N/A"
-			(at 254 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Vendor1" "N/A"
-			(at 254 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f58ae834-9098-48c4-ba20-a5771b8eef72")
-		)
-		(instances
-			(project "orleon"
-				(path "/fdfe0b94-afa6-44ad-a7e5-312f182a8626"
-					(reference "TP8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
 		(at 284.48 64.77 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "efd68702-045c-4700-8a0a-4ea69b3b51af")
 		(property "Reference" "TP15"
 			(at 276.86 64.77 90)
@@ -25647,7 +26573,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "RT0201DRD071KL"
 			(at 359.41 88.9 0)
 			(effects
 				(font
@@ -25656,7 +26582,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/yageo/RT0201DRD071KL/5925536"
 			(at 359.41 88.9 0)
 			(effects
 				(font
@@ -25665,7 +26591,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "YAGEO"
 			(at 359.41 88.9 0)
 			(effects
 				(font
@@ -25782,7 +26708,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_Small"
+		(property "Value" "1K"
 			(at 209.55 217.1699 0)
 			(effects
 				(font
@@ -25818,7 +26744,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "RC0201FR-071KL"
 			(at 207.01 215.9 0)
 			(effects
 				(font
@@ -25827,7 +26753,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/yageo/RC0201FR-071KL/3202389"
 			(at 207.01 215.9 0)
 			(effects
 				(font
@@ -25836,7 +26762,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "YAGEO"
 			(at 207.01 215.9 0)
 			(effects
 				(font

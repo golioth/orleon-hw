@@ -1,4 +1,4 @@
-24759125683926637
+24760867965188333
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -99519,7 +99519,14 @@ BAT_CR-2032_HF1N
 2
 2
 orleon
-BGA94C35P10X10_360X354X51N
+BGA_0.2mm_94C35P10X10_360X354X51N
+
+
+0
+94
+94
+orleon
+BGA_0.25mm_94C35P10X10_360X354X51N
 
 
 0
