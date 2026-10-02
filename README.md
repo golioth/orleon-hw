@@ -3,6 +3,10 @@
 A small round battery-powered Bluetooth LE sensor board from Golioth, built
 around the Nordic nRF52840 in WLCSP. Rev A.
 
+Orleon was designed as part of Golioth's "Designing and Building an AirTag
+Clone" webinar series (April 2025):
+https://blog.golioth.io/designing-and-building-an-airtag-clone-a-new-series-from-golioth/
+
 > **Status:** pre-release cleanup for open-hardware (OSHW) publication.
 > Items marked **[UNKNOWN]** need confirmation before this README is final.
 
@@ -19,10 +23,22 @@ around the Nordic nRF52840 in WLCSP. Rev A.
 | Battery   | CR2032 coin cell (HF1N holder) | |
 | Board     | round, ~22 mm diameter | [UNKNOWN] confirm exact diameter |
 
-**[UNKNOWN]** Relationship to Phial: Phial (phial-hw repo) appears to be the
-successor design (nRF54L15 + nPM2100, Rev B). Confirm whether Orleon remains a
-supported/supported-alternate board or is superseded — this affects how the
-two repos should reference each other.
+## Hardware status (Rev A)
+
+Rev A was manufactured by JLCPCB but **never fully validated**. Two issues
+were found before the design was set aside:
+
+1. **BGA copper pour.** The copper fill under the nRF52840 WLCSP was filled
+   improperly at the fab. Recommended rework: remove the copper pour under
+   the BGA entirely and instead place vias on each ball down to the ground
+   layer.
+2. **Buttons.** The side-firing button style was not a good fit for this
+   form factor.
+
+**This design was superseded by [Phial](https://github.com/golioth/phial-hw)**
+(nRF54L15 + nPM2100), which is the better starting point for new work —
+though note that Phial has its own validation issues (see that repo's README
+for current status).
 
 ## Design files
 
